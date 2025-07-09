@@ -1,0 +1,101 @@
+description,true_category,predicted_category,similarity_score,correct,low_confidence_flag
+Common stuffs from Costco +table,Groceries,Groceries,0.6235117,True,False
+Trader Joe's,Groceries,Groceries,1.0000001,True,False
+Rent Dec,Rent,Rent,0.7240504,True,False
+strawberry and banana,Groceries,Groceries,0.46867636,True,False
+Parking sinquerim ,Travel,Rent,0.29545176,False,True
+Costco pizza ,Groceries,Groceries,0.81445986,True,False
+Rent sept,Rent,Rent,0.72996855,True,False
+Chambong,Alcohol,Eating Out,0.30373368,False,True
+Qfc vday,Groceries,Groceries,0.7682215,True,False
+Apna bazaar,Groceries,Groceries,0.32597154,True,True
+Cake mix,Groceries,Groceries,0.39556065,True,True
+Elec: april 1-may 8,Utilities + Electricity,Groceries,0.24281526,False,True
+Laundry detergent ,Home,Groceries,0.36153138,False,True
+Lime - May 31st,Travel,Alcohol & Leisure,0.30649,False,True
+Garlic,Groceries,Eating Out,0.5581977,False,False
+Ferry and return ,Travel,Utilities,0.29999962,False,True
+"Tortilla(0.99),cham tea(3),cake(2.99),lime juice(1.49),cucumbers(2.5)",Groceries,Groceries,0.43474716,True,True
+Cab cap hill,Travel,Groceries,0.36727142,False,True
+"Safeway- Pizza, Wine",Groceries,Groceries,0.68941975,True,False
+Utility: may 1-31,Utilities + Electricity,Utilities,0.3354903,False,True
+CostCo Paneer for helpless girls,Groceries,Groceries,0.5095768,True,False
+Colander ,Home ,Groceries,0.38753384,False,True
+Milk hmart,Groceries,Groceries,0.6700379,True,False
+Vodka,Alcohol,Alcohol & Leisure,1.0,False,False
+Agua verde,Eating Out,Groceries,0.31865978,False,True
+Poulsbo bakery ,Eating Out,Eating Out,0.42508963,True,True
+deposit,Rent,Rent,1.0000005,True,False
+Chicken starters,Rent,Groceries,0.47277093,False,False
+Flight,Travel,Alcohol & Leisure,0.436804,False,True
+Dishwash liquid,Home,Alcohol & Leisure,0.37474713,False,True
+Cocktail,Alcohol,Alcohol & Leisure,0.68646914,False,False
+Miniso goti soda,Eating Out,Alcohol & Leisure,0.3844887,False,True
+Toilet tissues,Home,Utilities,0.2993725,False,True
+Toilet roll,Home,Eating Out,0.39886713,False,True
+Meds and oatmilk,Groceries,Groceries,0.41331214,True,True
+Trader joes gyoza+naan,Groceries,Groceries,0.6812701,True,False
+March/Apr electricity,Utilities + Electricity,Utilities,0.5466912,False,False
+Gas Shell,Travel,Utilities,0.67896986,False,False
+50$ cash + 7.7 walmart 25th june,Groceries,Groceries,0.48381597,True,False
+Rava,Groceries,Alcohol & Leisure,0.3520974,False,True
+Delfinos,Eating Out,Utilities,0.49082458,False,False
+Chicken and paneer- costco,Groceries,Groceries,0.58808887,True,False
+Water filter,Home,Utilities,0.51904774,False,False
+Gas station snacks,Travel,Utilities,0.54716504,False,False
+Safeway chips + smirnoff + mango milkshake bombay express,Groceries,Groceries,0.46547723,True,False
+Amazon- Adapter,Home,Groceries,0.40530652,False,True
+6 Feb dinner,Eating Out,Eating Out,0.63588834,True,False
+Bag,Clothes + Accessories,Alcohol & Leisure,0.4555461,False,False
+Trader joes,Groceries,Groceries,0.96922135,True,False
+Apna bazaar hardika,Groceries,Groceries,0.2996721,True,True
+Green chilli ,Groceries,Groceries,0.38138366,True,True
+Neighbours + Cha Cha,Alcohol,Eating Out,0.32018977,False,True
+Ishika Purse,Gifts,Groceries,0.3233805,False,True
+Walmart oil ,Groceries,Groceries,0.6379669,True,False
+Utility: mar 1-31,Utilities + Electricity,Utilities,0.31527185,False,True
+Watermelon juice,Groceries,Alcohol & Leisure,0.43785787,False,True
+Safeway,Groceries,Groceries,0.9999999,True,False
+Pegasus breakfast,Eating Out,Eating Out,0.49001667,True,False
+Walmart - rice (4/9),Groceries,Groceries,0.5575971,True,False
+Oil,Groceries,Utilities,0.5958656,False,False
+Chilis,Groceries,Eating Out,0.5392227,False,False
+"safeway, trader joes June 27, prev(apples, etc) groceries",Groceries,Groceries,0.630409,True,False
+Hotel remaining charges,Trips,Utilities,0.35979915,False,True
+Chicken,Groceries,Eating Out,0.53602093,False,False
+Qdoba,Groceries,Groceries,0.54202914,True,False
+Rice,Groceries,Groceries,0.5487485,True,False
+Meghana Gift,Gifts,Groceries,0.2781229,False,True
+Costco,Groceries,Groceries,1.0,True,False
+Chilis ,Eating Out,Eating Out,0.5392227,True,False
+Green apple vodka,Alcohol,Alcohol & Leisure,0.655038,False,False
+Costco paneer,Groceries,Groceries,0.6423463,True,False
+Mediterranean wrap,Eating Out,Alcohol & Leisure,0.34739625,False,True
+Taste of India (12/16),Eating Out,Groceries,0.4390449,False,True
+Vacuum cleaner ,Home,Utilities,0.40131998,False,True
+Boba cafe happy,Groceries,Eating Out,0.6216344,False,False
+Earls drink,Alcohol,Alcohol & Leisure,0.60353076,False,False
+Cab rides,Travel,Alcohol & Leisure,0.42355758,False,True
+Car rental (Enterpise),Travel,Rent,0.55676854,False,False
+Walmart 20th Nov,Groceries,Groceries,0.68603694,True,False
+Halal bois,Eating Out,Alcohol & Leisure,0.43016282,False,True
+Cab bellevue to U district,Travel,Utilities,0.32876182,False,True
+Tide,Home,Alcohol & Leisure,0.35086045,False,True
+Joey’s Valentines Day 💕,Eating Out,Eating Out,0.39421332,True,True
+Wifi - September ,Utilities + Electricity,Utilities,0.6630924,False,False
+"Walmart onion, potato",Groceries,Groceries,0.55186486,True,False
+Royal Biryani House,Eating Out,Eating Out,0.39559573,True,True
+walmart june 5,Groceries,Groceries,0.6656633,True,False
+Dollar tree common expense,Home,Groceries,0.31460744,False,True
+Pasta ,Groceries,Eating Out,0.59752357,False,False
+U haul,Travel,Rent,0.39379606,False,True
+Bloedel Reserve,Trips,Alcohol & Leisure,0.33919126,False,True
+Lettuce and cheese taco,Groceries,Groceries,0.50177145,True,False
+4th,Random,Eating Out,0.3416199,False,True
+Rent oct Anushka and meghana,Rent,Rent,0.5145792,True,False
+Elec: jan 9-march 11,Utilities + Electricity,Groceries,0.27942404,False,True
+Nov dec electricity ,Utilities + Electricity,Utilities,0.57781804,False,False
+Bus madgoan to thivim ,Travel,Utilities,0.28576076,False,True
+Avis,Travel,Utilities,0.28543174,False,True
+mint plan sept to nov,Mobile Data,Utilities,0.2526153,False,True
+Utilities,Utilities + Electricity,Utilities,0.5133244,False,False

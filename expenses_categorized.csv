@@ -1,0 +1,882 @@
+date,amount,currency,paid_by,description,low_confidence_flag,category,matched_example,similarity_score
+2025-07-03T22:24:45Z,14.33,USD,Jessica,Wine,False,Alcohol & Leisure,wine,1.0
+2025-07-03T22:20:24Z,50.62,USD,Jessica,Walmart 1st july,False,Groceries,walmart,0.6712019
+2025-07-03T22:06:36Z,43.0,USD,Jessica,"safeway, trader joes June 27, prev(apples, etc) groceries",False,Groceries,trader joe's,0.630409
+2025-07-02T20:58:57Z,1685.16,USD,Christopher,Payment,False,Rent,deposit,0.5558409
+2025-07-02T20:46:41Z,6.99,USD,Jessica,Bobaup,True,Groceries,fred meyer,0.35123253
+2025-07-02T16:12:12Z,3187.49,USD,Jessica,Rent - July,False,Rent,rent,0.69070095
+2025-07-01T18:53:42Z,57.7,USD,Melanie,50$ cash + 7.7 walmart 25th june,False,Groceries,walmart,0.48381603
+2025-07-01T01:06:44Z,254.5,USD,Christopher,Ums utilities,True,Groceries,aldi,0.2501939
+2025-06-23T19:37:06Z,14.24,USD,Melanie,Chipotle,False,Eating Out,chipotle,1.0000002
+2025-06-23T19:26:34Z,65.23,USD,Melanie,walmart june 5,False,Groceries,walmart,0.66566324
+2025-06-21T18:28:13Z,816.09,USD,Bridget,Payment,False,Rent,deposit,0.5558409
+2025-06-19T18:07:55Z,60.86,USD,Bridget,Payment,False,Rent,deposit,0.5558409
+2025-06-18T23:09:06Z,146.87,USD,Jessica,March/Apr electricity,False,Utilities,electricity,0.54669124
+2025-06-18T23:05:01Z,60.86,USD,Bridget,Payment,False,Rent,deposit,0.55584097
+2025-06-18T23:03:21Z,816.87,USD,Melanie,Payment,False,Rent,deposit,0.5558409
+2025-06-13T04:39:55Z,16.24,USD,Melanie,Mediterranean wrap,True,Alcohol & Leisure,wine,0.34739625
+2025-06-13T04:36:01Z,75.0,USD,Melanie,Mint indian buffet,False,Eating Out,restaurant,0.49693543
+2025-06-08T13:16:59Z,137.0,USD,Jessica,Cheesecake factory dinner,False,Eating Out,dinner,0.60580564
+2025-06-07T00:27:51Z,60.85,USD,Mitchell,Payment,False,Rent,deposit,0.5558409
+2025-06-03T04:37:13Z,14.33,USD,Jessica,Stella rosa,True,Eating Out,starbucks,0.37636092
+2025-06-03T04:13:50Z,8.28,USD,Andrea,Trader joes gyoza,False,Groceries,trader joe's,0.8051852
+2025-06-01T03:04:02Z,243.43,USD,Melanie,Ums utilities,True,Groceries,aldi,0.2501939
+2025-06-01T03:01:02Z,3187.49,USD,Jessica,Rent June,False,Rent,rent,0.6891773
+2025-05-31T21:08:53Z,15.5,USD,Jessica,Grad gown,True,Groceries,walmart,0.26306412
+2025-05-31T21:08:11Z,11.99,USD,Jessica,Bombay express,False,Groceries,indian store,0.4587851
+2025-05-31T21:06:05Z,18.55,USD,Jessica,Safeway(10)+Starbucks(8.55),False,Groceries,safeway,0.6827282
+2025-05-31T21:04:43Z,43.88,USD,Jessica,Zipcar practice,True,Rent,rent,0.34769484
+2025-05-30T19:42:54Z,27.6,USD,Jessica,Cafe on the ave,False,Eating Out,cafe,0.7830479
+2025-05-30T19:41:41Z,58.1,USD,Jessica,Walmart 29 may,False,Groceries,walmart,0.71205837
+2025-05-25T23:29:03Z,29.11,USD,Melanie,uber alderwood both ways+ chilis,True,Groceries,aldi,0.41036123
+2025-05-25T23:24:56Z,68.76,USD,Melanie,Walmart May 11,False,Groceries,walmart,0.64366317
+2025-05-13T03:15:39Z,9.66,USD,Melanie,Boba lust,True,Alcohol & Leisure,bar,0.25796384
+2025-05-13T03:03:32Z,5.99,USD,Janet,Boba up,True,Alcohol & Leisure,bar,0.31277186
+2025-05-06T00:55:30Z,45.24,USD,Jessica,Din tai fung,True,Alcohol & Leisure,tequila,0.34137994
+2025-05-06T00:54:58Z,9.51,USD,Jessica,Subway,False,Eating Out,starbucks,0.630437
+2025-05-05T06:16:10Z,27.3,USD,Andrea,Chambong,True,Eating Out,chipotle,0.30373368
+2025-05-05T00:30:45Z,44.28,USD,Jessica,Neighbours + Cha Cha,True,Eating Out,cafe,0.32018977
+2025-05-02T21:59:15Z,927.18,USD,Jessica,Settle all balances,True,Eating Out,takeout,0.26679707
+2025-05-02T21:59:15Z,927.18,USD,Melanie,Settle all balances,True,Eating Out,takeout,0.26679707
+2025-05-02T21:59:13Z,777.4,USD,Melanie,Payment,False,Rent,deposit,0.5558409
+2025-05-02T21:57:52Z,33.05,USD,Jessica,Amazon shampoo ,False,Groceries,walmart,0.48506352
+2025-05-02T14:37:57Z,403.7,USD,Bridget,Payment,False,Rent,deposit,0.5558409
+2025-05-01T23:27:44Z,793.43,USD,Jessica,Settle all balances,True,Eating Out,takeout,0.26679707
+2025-05-01T23:27:44Z,793.43,USD,Christopher,Settle all balances,True,Eating Out,takeout,0.26679707
+2025-05-01T23:27:44Z,805.86,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2025-05-01T20:20:05Z,268.4,USD,Jessica,Utilities April,True,Utilities,power bill,0.44556886
+2025-05-01T20:06:09Z,3187.49,USD,Jessica,May Rent,False,Rent,rent,0.7306013
+2025-05-01T02:12:52Z,21.32,USD,Jessica,"TJ(burger), Safeway(alc, tortilla, etc)",False,Eating Out,burger,0.55884635
+2025-04-22T18:58:45Z,19.02,USD,Jessica,Walmart - 4/22,False,Groceries,walmart,0.7300609
+2025-04-22T18:58:09Z,12.43,USD,Jessica,Walmart - 4/21,False,Groceries,walmart,0.7358769
+2025-04-21T04:27:57Z,60.2,USD,Jessica,Walmart - 3/29,False,Groceries,walmart,0.7156553
+2025-04-21T04:06:37Z,20.98,USD,Jessica,Walmart - rice (4/9),False,Groceries,whole foods,0.55759716
+2025-04-20T05:29:19Z,17.11,USD,Jessica,Earls,True,Alcohol & Leisure,pub,0.40544894
+2025-04-18T21:08:19Z,10.0,USD,Andrea,Lovable - thanks😘,True,Eating Out,swiggy,0.32960725
+2025-04-14T18:11:30Z,47.0,USD,Jessica,Ranbo Insomnia,True,Eating Out,zomato,0.27957767
+2025-04-14T00:06:47Z,26.0,USD,Jessica,Haircut,True,Eating Out,burger,0.36311716
+2025-04-03T02:22:55Z,42.05,USD,Melanie,Walmart 17th march,False,Groceries,walmart,0.62191594
+2025-04-03T02:15:19Z,251.76,USD,Christopher,Utilities march,True,Utilities,power bill,0.40511572
+2025-04-02T12:33:52Z,80.82,USD,Melanie,Payment,False,Rent,deposit,0.5558409
+2025-04-02T12:33:23Z,580.79,USD,Melanie,Payment,False,Rent,deposit,0.5558409
+2025-04-01T22:32:42Z,779.37,USD,Christopher,Payment,False,Rent,deposit,0.55584097
+2025-04-01T18:14:40Z,811.87,USD,Jessica,Payment,False,Rent,deposit,0.55584097
+2025-04-01T17:23:23Z,3187.49,USD,Christopher,April Rent,False,Rent,rent,0.66505206
+2025-03-25T05:35:43Z,100.0,USD,Melanie,driving session,True,Groceries,safeway,0.2855332
+2025-03-24T17:32:31Z,80.0,USD,Bridget,Jai thai dinner,False,Eating Out,dinner,0.5556623
+2025-03-23T23:47:54Z,16.54,USD,Melanie,Amazon mouse,True,Groceries,walmart,0.43301427
+2025-03-23T23:36:49Z,206.86,USD,Christopher,Jan feb electricity ,False,Utilities,electricity,0.5585649
+2025-03-23T07:50:43Z,27.13,USD,Melanie,fireball+jaljeera,True,Eating Out,zomato,0.32548565
+2025-03-23T07:48:38Z,34.0,USD,Jessica,Bombay exp,False,Groceries,indian store,0.4549184
+2025-03-19T00:15:15Z,16.54,USD,Melanie,Lune cafe,False,Eating Out,cafe,0.6736138
+2025-03-18T18:18:04Z,15.47,USD,Jessica,"Hardika's cake, yogurt, pav bhaji buns",True,Groceries,whole foods,0.379255
+2025-03-15T05:12:08Z,7.78,USD,Jessica,Trader joes gyoza+naan,False,Groceries,trader joe's,0.6812701
+2025-03-12T21:02:27Z,82.64,USD,Bridget,Walmart 10th March,False,Groceries,walmart,0.60661465
+2025-03-12T20:51:16Z,11.66,USD,Jessica,"walmart- bathroom brush, browni, pasta, pancake",True,Groceries,walmart,0.4242317
+2025-03-12T20:31:43Z,28.6,USD,Andrea,Nasha Mukti Kendra,True,Groceries,indian store,0.36272743
+2025-03-09T00:27:08Z,95.0,USD,Melanie,sabverr,True,Eating Out,swiggy,0.3431025
+2025-03-08T01:02:16Z,5.0,USD,Jessica,Methi,True,Eating Out,dinner,0.28618822
+2025-03-08T01:01:57Z,8.69,USD,Jessica,Ras Malai,True,Groceries,indian store,0.35959625
+2025-03-07T05:37:04Z,40.55,USD,Bridget,Walmart 26th Feb,False,Groceries,walmart,0.64080036
+2025-03-05T02:21:04Z,69.0,USD,Jessica,Walmart 3rd March,False,Groceries,walmart,0.634603
+2025-03-05T02:20:04Z,13.23,USD,Jessica,Full bedsheet,True,Rent,flat,0.36147016
+2025-03-03T17:01:21Z,485.47,USD,Bridget,Payment,False,Rent,deposit,0.55584097
+2025-03-02T23:59:11Z,934.61,USD,Jessica,Payment,False,Rent,deposit,0.55584097
+2025-03-02T23:46:36Z,4.5,USD,Jessica,Poulsbo Bakery,True,Eating Out,dominos,0.42508963
+2025-03-02T23:46:24Z,9.0,USD,Jessica,Payment,False,Rent,deposit,0.55584097
+2025-03-02T06:53:09Z,105.61,USD,Melanie,Payment,False,Rent,deposit,0.55584097
+2025-03-02T06:52:22Z,895.36,USD,Melanie,Payment,False,Rent,deposit,0.55584097
+2025-03-02T06:47:53Z,11.76,USD,Jessica,Bombay express dahi chat + insomniac,True,Groceries,indian store,0.29442954
+2025-03-01T04:33:02Z,6.25,USD,Joseph,Settle all balances,True,Eating Out,takeout,0.26679695
+2025-02-28T19:25:54Z,3187.49,USD,Christopher,March Rent,False,Rent,monthly rent,0.63318837
+2025-02-28T01:10:41Z,40.96,USD,Jessica,Payment,False,Rent,deposit,0.55584097
+2025-02-28T00:37:14Z,39.09,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2025-02-28T00:34:23Z,6.5,USD,Jessica,Leon coffee house,False,Eating Out,cafe,0.5533852
+2025-02-28T00:32:47Z,51.13,USD,Jessica,Movie+Popcorn(42.48+8.65),True,Eating Out,pizza,0.34604883
+2025-02-28T00:26:27Z,31.68,USD,Jessica,Trader Joe's,False,Groceries,trader joe's,1.0000001
+2025-02-27T08:00:00Z,13.59,USD,Jessica,Bombay Express - Malai Kofta,True,Groceries,indian store,0.4138105
+2025-02-26T01:40:48Z,15.99,USD,Melanie,Dishwash liquid,True,Alcohol & Leisure,alcohol,0.37474713
+2025-02-26T01:23:01Z,44.75,USD,Melanie,CostCo Paneer for helpless girls,False,Groceries,costco,0.5095768
+2025-02-25T19:57:39Z,225.28,USD,Christopher,Utilies,True,Alcohol & Leisure,bar,0.3320744
+2025-02-23T22:33:02Z,68.17,USD,Bridget,Walmart 18th feb,False,Groceries,walmart,0.67061144
+2025-02-21T04:16:12Z,6.44,USD,Colin,Payment,False,Rent,deposit,0.5558409
+2025-02-20T19:42:39Z,18.0,USD,Craig,Poulsbo bakery ,True,Eating Out,dominos,0.42508963
+2025-02-20T19:34:19Z,76.5,USD,Barbara,Car rental day 1 poulsbo bain bridge ,True,Rent,rent,0.3990096
+2025-02-20T19:17:22Z,18.0,USD,Melanie,Costco,False,Groceries,costco,1.0
+2025-02-20T09:02:14Z,0.8,USD,Eric,Payment,False,Rent,deposit,0.5558409
+2025-02-20T09:02:09Z,1.61,USD,Eric,Payment,False,Rent,deposit,0.5558409
+2025-02-20T08:07:21Z,19.65,USD,Andrea,Chilis,False,Eating Out,pizza,0.53922284
+2025-02-17T22:08:48Z,3.5,USD,Jessica,Cheesecake,False,Eating Out,pizza,0.49759877
+2025-02-17T05:28:36Z,20.9,USD,Jessica,Qfc vday,False,Groceries,qfc,0.7682215
+2025-02-17T05:24:49Z,18.56,USD,Andrea,Pegasus breakfast,False,Eating Out,lunch,0.49001667
+2025-02-16T23:29:43Z,78.3,USD,Andrea,Ferry and return ,True,Utilities,recharge,0.29999962
+2025-02-16T21:02:17Z,50.0,USD,Andrea,Bloedel Reserve,True,Alcohol & Leisure,brewery,0.33919126
+2025-02-15T22:19:56Z,5.4,USD,Andrea,Trinity - alcohol,False,Alcohol & Leisure,alcohol,0.6271719
+2025-02-15T19:45:57Z,50.63,USD,Jessica,Joey’s Valentines Day 💕,True,Eating Out,dinner,0.3942135
+2025-02-14T18:56:30Z,71.39,USD,Christopher,Walmart 10th Feb,False,Groceries,walmart,0.65070945
+2025-02-12T23:03:21Z,251.33,USD,Jessica,Macy's Nov shopping,True,Groceries,walmart,0.4155953
+2025-02-12T22:24:17Z,12.89,USD,Jessica,Boba ,True,Eating Out,burger,0.33486843
+2025-02-11T00:54:46Z,3.99,USD,Melanie,Rava,True,Alcohol & Leisure,tequila,0.35209736
+2025-02-11T00:52:17Z,2.99,USD,Christopher,Frozen chillies,True,Groceries,whole foods,0.39801013
+2025-02-11T00:50:14Z,27.96,USD,Bridget,Uncooked roti,True,Groceries,vegetables,0.33528107
+2025-02-10T20:47:21Z,0.8,USD,Jeffery,Payment,False,Rent,deposit,0.5558409
+2025-02-10T20:47:01Z,1.61,USD,Jeffery,Payment,False,Rent,deposit,0.5558409
+2025-02-10T02:41:59Z,30.0,USD,Adam,Settle all balances,True,Eating Out,takeout,0.26679707
+2025-02-10T02:33:57Z,6.5,USD,Jessica,Whole Foods CupCake,False,Groceries,whole foods,0.7136293
+2025-02-10T02:31:38Z,29.52,USD,Melanie,Supreme Pizza,False,Eating Out,pizza,0.7047156
+2025-02-10T02:30:52Z,21.58,USD,Melanie,Trinity Market,True,Groceries,trader joe's,0.3748966
+2025-02-09T22:42:51Z,16.38,USD,Matthew,Settle all balances,True,Eating Out,takeout,0.26679695
+2025-02-09T22:31:26Z,91.02,USD,Matthew,Settle all balances,True,Eating Out,takeout,0.26679695
+2025-02-09T21:46:32Z,31.0,USD,Jessica,Linkedin Premium,True,Utilities,xfinity,0.2920114
+2025-02-07T07:06:53Z,69.79,USD,Bridget,Walmart,False,Groceries,walmart,1.0000001
+2025-02-06T23:59:03Z,4.93,USD,Andrea,Drinks Clear,False,Alcohol & Leisure,drinks,0.67634714
+2025-02-06T23:53:05Z,29.0,USD,Cynthia,Drinks Poker Night,False,Alcohol & Leisure,drinks,0.5923823
+2025-02-06T23:52:04Z,81.23,USD,Melanie,Danbo,True,Eating Out,burger,0.34182423
+2025-02-05T18:56:50Z,20.0,USD,Andrea,"Safeway- Pizza, Wine",False,Groceries,safeway,0.68942
+2025-02-05T18:40:28Z,7.53,USD,Christopher,Walmart,False,Groceries,walmart,1.0000001
+2025-02-03T07:31:40Z,1.49,USD,Jessica,Salt,True,Groceries,milk,0.44750622
+2025-02-03T07:30:59Z,3.56,USD,Jessica,"Safeway- bread, tomatoes",False,Groceries,safeway,0.64501584
+2025-02-03T07:29:42Z,14.97,USD,Jessica,Walmart,False,Groceries,walmart,1.0
+2025-02-02T23:35:59Z,6.25,USD,Brandon,Payment,False,Rent,deposit,0.5558409
+2025-02-02T23:35:54Z,17.09,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2025-02-02T08:49:01Z,34.18,USD,Debra,Delfinos,False,Utilities,xfinity,0.49082458
+2025-02-02T03:03:19Z,39.88,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2025-02-01T18:57:54Z,795.39,USD,Melanie,Settle all balances,True,Eating Out,takeout,0.26679695
+2025-02-01T00:48:37Z,275.17,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2025-02-01T00:46:54Z,1.61,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2025-02-01T00:45:54Z,26.78,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2025-01-31T21:16:38Z,712.8,USD,Bridget,Payment,False,Rent,deposit,0.5558409
+2025-01-31T20:21:29Z,811.87,USD,Jessica,Payment,False,Rent,deposit,0.55584097
+2025-01-31T20:18:20Z,3187.49,USD,Jessica,Feb rent,False,Rent,rent,0.6591182
+2025-01-29T07:34:17Z,12.51,USD,Jessica,TJ manpreet wine and gyoza,False,Alcohol & Leisure,wine,0.5104332
+2025-01-29T07:30:39Z,85.0,USD,Erica,Vons ,True,Groceries,tj's,0.39421648
+2025-01-29T07:24:35Z,63.83,USD,Bridget,Walmart 26th Jan,False,Groceries,walmart,0.6285386
+2025-01-27T20:04:49Z,1.61,USD,Angel,Payment,False,Rent,deposit,0.5558409
+2025-01-27T19:39:59Z,6.25,USD,Susan,Settle all balances,True,Eating Out,takeout,0.26679695
+2025-01-26T22:43:01Z,11.01,USD,Melanie,Amazon- Adapter,True,Groceries,walmart,0.40530646
+2025-01-24T06:07:26Z,125.81,USD,Jessica,Nov dec electricity ,False,Utilities,electricity,0.577818
+2025-01-23T16:52:12Z,68.43,USD,Bridget,Walmart 18th Jan,False,Groceries,walmart,0.67511624
+2025-01-21T05:13:30Z,26.78,USD,Erica,Costco Paneer,False,Groceries,costco,0.64234614
+2025-01-21T01:31:06Z,26.78,USD,Andrea,Paneer x2,True,Eating Out,lunch,0.3305582
+2025-01-17T22:06:35Z,1.87,USD,Janet,Settle all balances,True,Eating Out,takeout,0.26679707
+2025-01-17T22:06:35Z,1.87,USD,Jessica,Settle all balances,True,Eating Out,takeout,0.26679707
+2025-01-17T22:06:33Z,84.29,USD,Janet,Payment,False,Rent,deposit,0.5558409
+2025-01-16T17:56:20Z,779.38,USD,Bridget,January rent,False,Rent,monthly rent,0.7391206
+2025-01-07T11:47:12Z,778.0,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2025-01-07T10:56:34Z,816.87,USD,Melanie,Payment,False,Rent,deposit,0.5558409
+2025-01-07T10:53:31Z,3187.49,USD,Jessica,Rent jan,False,Rent,rent,0.60440505
+2025-01-07T01:26:58Z,223.1,USD,Melanie,Utilities Dec,True,Utilities,power bill,0.42064726
+2025-01-07T01:26:39Z,68.32,USD,Jessica,Utilities nov,True,Utilities,power bill,0.43656743
+2025-01-02T00:53:23Z,25.0,USD,Joseph,Meghana Gift,True,Groceries,indian store,0.2781229
+2024-12-29T00:11:37Z,16.11,USD,Brandon,Mehak gift,True,Eating Out,dinner,0.30170256
+2024-12-24T01:29:13Z,0.58,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-12-23T13:48:31Z,22.06,USD,Melanie,Shein purse and sweatshirt,True,Groceries,groceries,0.37384975
+2024-12-18T20:46:53Z,19.21,USD,Andrea,Bombay Express,False,Groceries,indian store,0.4587851
+2024-12-18T15:00:33Z,158.59,USD,Lisa,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-12-18T15:00:33Z,183.53,USD,Jessica,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-12-18T15:00:33Z,24.94,USD,Lisa,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-12-18T15:00:30Z,158.59,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-12-14T13:03:52Z,70.83,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-12-09T09:08:53Z,8.82,INR,Jeffrey,1 pizza,False,Eating Out,pizza,0.79805034
+2024-12-08T07:17:28Z,8.82,USD,Jeffery,1 pizza,False,Eating Out,pizza,0.79805034
+2024-12-08T07:15:55Z,17.74,USD,Jeffery,2 pizzas ,False,Eating Out,pizza,0.7794186
+2024-12-07T14:30:21Z,8.25,USD,Robert,Payment,False,Rent,deposit,0.5558409
+2024-12-05T21:59:47Z,31.96,USD,Melanie,Settle all balances,True,Eating Out,takeout,0.26679695
+2024-12-05T21:59:47Z,32.25,USD,Jessica,Settle all balances,True,Eating Out,takeout,0.26679695
+2024-12-05T21:59:47Z,0.29,USD,Melanie,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-12-05T21:59:45Z,64.72,USD,Melanie,Payment,False,Rent,deposit,0.55584097
+2024-12-02T22:51:45Z,39.15,USD,Jessica,Costco chocolates - same day,False,Groceries,costco,0.53440154
+2024-12-02T21:34:52Z,101.94,USD,Andrea,Costco chocolates,False,Groceries,costco,0.7114891
+2024-12-02T19:17:16Z,34.23,USD,Bridget,Payment,False,Rent,deposit,0.5558409
+2024-12-02T03:49:34Z,74.34,USD,Jessica,Nivea(23.16)+Puma shoes (29.12)+ Shein(22.06),True,Groceries,indian store,0.29833412
+2024-12-01T22:12:21Z,521.22,USD,Bridget,Payment,False,Rent,deposit,0.5558409
+2024-12-01T07:46:23Z,870.34,USD,Melanie,Payment,False,Rent,deposit,0.5558409
+2024-12-01T02:51:33Z,62.55,USD,Jessica,lyft(bellevue to 7th ave 34.20/2)+bday beer(45.45),False,Alcohol & Leisure,beer,0.48289865
+2024-12-01T02:33:38Z,39.03,USD,Jessica,Walmart - Nov 30,False,Groceries,walmart,0.6438916
+2024-12-01T02:33:38Z,15.18,USD,Amanda,Walmart - Nov 30,False,Groceries,walmart,0.6438916
+2024-12-01T01:16:56Z,38.76,USD,Jessica,Walmart - Nov 26,False,Groceries,walmart,0.71170104
+2024-11-30T08:00:00Z,21.0,USD,Andrea,Chipotle,False,Eating Out,chipotle,1.0000001
+2024-11-30T06:04:01Z,9.88,USD,Melanie,TJ gyoza day (12.77/2) + thai sauce 3.79,True,Groceries,tj's,0.40861672
+2024-11-30T01:39:54Z,811.25,USD,Christopher,Payment,False,Rent,deposit,0.5558409
+2024-11-30T01:38:24Z,3187.49,USD,Christopher,Rent Dec,False,Rent,rent,0.72405016
+2024-11-28T22:36:08Z,44.17,USD,Jessica,Cab bellevue to U district,True,Utilities,seattle city light,0.32876182
+2024-11-28T07:34:27Z,52.14,USD,Jessica,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-11-28T07:34:27Z,16.64,USD,Michelle,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-11-28T07:34:27Z,35.5,USD,Michelle,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-11-28T07:34:25Z,178.47,USD,Michelle,Payment,False,Rent,deposit,0.5558409
+2024-11-27T08:12:23Z,18.92,USD,Adam,Payment,False,Rent,deposit,0.5558409
+2024-11-26T19:15:37Z,125.2,USD,Christopher,Electricity sep oct,False,Utilities,electricity,0.62126714
+2024-11-26T04:29:07Z,9.42,USD,Melanie,Pillow covers(lost) ,True,Rent,flat,0.20926893
+2024-11-25T20:11:34Z,19.48,USD,William,Payment,False,Rent,deposit,0.5558409
+2024-11-25T20:06:43Z,30.0,USD,William,Settle all balances,True,Eating Out,takeout,0.26679695
+2024-11-25T08:53:15Z,14.32,USD,Andrea,Gloves,True,Alcohol & Leisure,whiskey,0.32337797
+2024-11-25T08:49:26Z,27.0,USD,Jessica,Jacket,True,Alcohol & Leisure,beer,0.43124753
+2024-11-25T08:48:43Z,6.0,USD,Jessica,Starbucks,False,Eating Out,starbucks,1.0000002
+2024-11-25T08:46:29Z,15.0,USD,Jessica,Mike’s Hard,True,Groceries,fred meyer,0.3209301
+2024-11-25T08:46:02Z,31.0,USD,Jessica,Danbo,True,Eating Out,burger,0.34182423
+2024-11-25T08:42:50Z,30.0,USD,Melanie,Cab to Ora + Buzzballs,True,Eating Out,pizza,0.27259642
+2024-11-25T08:31:55Z,22.78,USD,Melanie,Cab from ora,True,Eating Out,cafe,0.33390635
+2024-11-23T19:36:19Z,70.83,USD,Jessica,"Amazon order (pens,bag, purse)",False,Groceries,walmart,0.45731062
+2024-11-23T08:14:59Z,24.08,USD,Jessica,CeraVe,True,Groceries,fred meyer,0.2994247
+2024-11-23T08:05:57Z,5.08,USD,Jessica,Tomatoes - safeway,False,Groceries,safeway,0.63192105
+2024-11-23T06:51:30Z,170.0,USD,Jessica,Inchin bamboo,True,Groceries,vegetables,0.3538701
+2024-11-22T20:14:45Z,26.32,USD,Melanie,Walmart 20th Nov,False,Groceries,walmart,0.68603706
+2024-11-21T01:22:16Z,29.78,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-11-21T00:29:12Z,10.26,USD,Christine,Payment,False,Rent,deposit,0.5558409
+2024-11-18T21:26:14Z,7.87,USD,Jessica,Qfc 10 nov,False,Groceries,qfc,0.77739006
+2024-11-18T15:37:31Z,3.03,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-11-14T06:47:38Z,18.17,USD,Jessica,Ishika cake,True,Eating Out,dinner,0.3149736
+2024-11-14T06:43:45Z,7.05,USD,Melanie,Walmart oil ,False,Groceries,walmart,0.63796693
+2024-11-14T06:06:56Z,26.7,USD,Melanie,"Costco pizza(13.56)and paneer(13.79), walmart plates and glasses(6.26)",False,Eating Out,pizza,0.51514584
+2024-11-13T17:41:22Z,209.06,USD,Bridget,Payment,False,Rent,deposit,0.5558409
+2024-11-12T16:30:54Z,13.99,USD,Jessica,Nanak gajar halwa,True,Eating Out,zomato,0.32028407
+2024-11-12T16:20:57Z,83.24,USD,Jessica,TJ max Anushka ,False,Groceries,tj's,0.50536793
+2024-11-12T16:15:09Z,22.06,USD,Melanie,TJ max cushion,False,Groceries,tj's,0.61194646
+2024-11-12T16:10:55Z,582.44,USD,Christopher,Utilities,False,Utilities,electricity,0.5133244
+2024-11-11T02:10:03Z,8.99,USD,Jessica,Chilli's - roti,True,Alcohol & Leisure,tequila,0.33413327
+2024-11-11T02:08:44Z,29.78,USD,Jessica,Ishika Purse,True,Groceries,indian store,0.32338056
+2024-11-09T00:47:37Z,115.0,USD,Jessica,Electricity: sept6- Nov 5,False,Utilities,electricity,0.6981164
+2024-11-06T20:30:40Z,10.98,USD,Jessica,qfc(icecream+pomegranate),False,Groceries,qfc,0.50667745
+2024-11-06T20:27:13Z,64.67,USD,Jessica,Walmart - Oct 26,False,Groceries,walmart,0.70401263
+2024-11-04T20:37:41Z,54.2,USD,Jessica,Walmart-Oct 18,False,Groceries,walmart,0.6871525
+2024-11-04T20:36:07Z,99.96,USD,Jessica,Walmart-Oct 18,False,Groceries,walmart,0.6871525
+2024-11-04T19:49:02Z,24.0,USD,Jessica,Costco Paneer,False,Groceries,costco,0.64234614
+2024-11-04T19:43:56Z,34.0,USD,Jessica,Walmart dustbin (11)+ Smirnoff ice(16) + hmart fruits (7),True,Groceries,whole foods,0.36920464
+2024-11-04T19:38:23Z,26.85,USD,Melanie,Safeway chips and dip,False,Groceries,safeway,0.5292622
+2024-11-04T19:35:45Z,5.77,USD,Jessica,Ansh cab,True,Alcohol & Leisure,bar,0.34291083
+2024-11-04T19:35:25Z,755.82,USD,Christopher,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-11-04T19:32:19Z,21.59,USD,Melanie,Safeway chips + smirnoff + mango milkshake bombay express,False,Groceries,safeway,0.46547735
+2024-11-04T09:47:26Z,770.73,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-11-04T03:43:46Z,778.75,USD,Bridget,Payment,False,Rent,deposit,0.5558409
+2024-11-01T16:58:07Z,19.44,USD,Melanie,Washer dryer + burger hut ,False,Eating Out,burger,0.49320453
+2024-11-01T16:56:17Z,30.0,USD,Jessica,Cab cap hill,True,Groceries,safeway,0.36727148
+2024-10-31T22:13:16Z,3185.0,USD,Jessica,Rent oct,False,Rent,rent,0.7187611
+2024-10-31T17:07:19Z,10.97,USD,Melanie,Trader joes,False,Groceries,trader joe's,0.96922135
+2024-10-31T17:06:27Z,10.0,USD,Jessica,Meds,True,Alcohol & Leisure,alcohol,0.37249285
+2024-10-31T17:04:41Z,11.32,USD,Jessica,Bombay express,False,Groceries,indian store,0.4587851
+2024-10-28T02:42:51Z,8.33,USD,Brandon,Payment,False,Rent,deposit,0.5558409
+2024-10-28T02:41:19Z,23.25,USD,Melanie,Payment,False,Rent,deposit,0.5558409
+2024-10-22T23:10:12Z,30.0,USD,Jeremy,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-10-22T00:20:05Z,85.41,USD,Bridget,Payment,False,Rent,deposit,0.5558409
+2024-10-21T18:02:06Z,11.31,USD,William,Milkshake,False,Groceries,milk,0.6462456
+2024-10-21T16:50:34Z,24.99,USD,Brandon,Cab ,False,Alcohol & Leisure,bar,0.50387585
+2024-10-21T07:07:18Z,45.0,USD,Jessica,Thai tom,True,Eating Out,burger,0.3521967
+2024-10-20T04:30:36Z,802.5,USD,Bridget,Payment,False,Rent,deposit,0.55584097
+2024-10-19T16:47:40Z,32.25,USD,Teresa,Payment,False,Rent,deposit,0.55584097
+2024-10-17T18:26:18Z,3.89,USD,Jessica,Payment,False,Rent,deposit,0.55584097
+2024-10-16T23:06:39Z,23.56,USD,Jessica,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-10-16T23:06:39Z,23.56,USD,Lindsay,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-10-16T23:06:39Z,73.56,USD,Jessica,Payment,False,Rent,deposit,0.55584097
+2024-10-16T14:22:10Z,9.0,USD,Debra,Cab@Ganpati ,True,Eating Out,cafe,0.31313834
+2024-10-14T19:57:28Z,97.47,USD,William,Payment,False,Rent,deposit,0.55584097
+2024-10-14T05:41:27Z,7.69,USD,Jessica,Insomniac cookies plus Safeway,False,Groceries,safeway,0.47708422
+2024-10-14T05:18:44Z,19.5,USD,Melanie,Kulfi and chat,True,Eating Out,cafe,0.2608834
+2024-10-14T05:15:48Z,210.0,USD,Teresa,Garba Microsoft ,True,Utilities,comcast,0.3770417
+2024-10-13T04:35:00Z,3.99,USD,Jessica,TJ - Oil,False,Groceries,tj's,0.6874664
+2024-10-11T23:21:36Z,99.99,USD,Jessica,Walmart Oct8th,False,Groceries,walmart,0.6145993
+2024-10-11T21:18:10Z,24.5,USD,Christopher,Walmart rice + oil TJ,False,Groceries,whole foods,0.5150651
+2024-10-11T16:37:40Z,31.26,USD,Debra,Payment,False,Rent,deposit,0.55584097
+2024-10-10T23:15:56Z,19.99,USD,Christopher,Dishwasher pods,True,Eating Out,starbucks,0.25967363
+2024-10-09T06:55:54Z,11.51,USD,William,Payment,False,Rent,deposit,0.55584097
+2024-10-08T00:25:05Z,23.81,USD,Jessica,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-10-08T00:25:05Z,4.69,USD,Matthew,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-10-08T00:25:05Z,17.52,USD,Jessica,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-10-08T00:25:05Z,36.64,USD,Matthew,Settle all balances,True,Eating Out,takeout,0.26679695
+2024-10-08T00:25:03Z,9.06,USD,Matthew,Payment,False,Rent,deposit,0.55584097
+2024-10-07T21:16:06Z,32.11,USD,Jessica,Walmart Oct 2nd,False,Groceries,walmart,0.6538563
+2024-10-05T16:26:26Z,802.5,USD,Jessica,Payment,False,Rent,deposit,0.55584097
+2024-10-04T04:58:22Z,3.59,USD,Christopher,Salt,True,Groceries,milk,0.44750637
+2024-10-03T15:13:54Z,4.18,USD,Bridget,Cleaning supplies walmart,False,Groceries,walmart,0.5403209
+2024-10-03T03:10:26Z,802.5,USD,Jessica,Payment,False,Rent,deposit,0.55584097
+2024-10-03T03:06:39Z,84.7,USD,Jessica,Apna Bazaar Oct 1st,True,Groceries,aldi,0.32629734
+2024-10-02T23:27:46Z,24.0,USD,Jessica,Costco almonds and walnuts,False,Groceries,costco,0.48780173
+2024-10-02T18:24:06Z,9.99,USD,Christopher,Tide,True,Alcohol & Leisure,liquor,0.35086042
+2024-10-02T01:43:47Z,54.07,USD,William,Araya’s,True,Groceries,tj's,0.37329465
+2024-10-01T22:42:34Z,96.89,USD,Jessica,Payment,False,Rent,deposit,0.55584097
+2024-10-01T22:28:03Z,18.21,USD,Melanie,Bedsheet,True,Rent,flat,0.36492202
+2024-10-01T22:26:49Z,5.49,USD,Melanie,Strawberries-safeway,False,Groceries,safeway,0.6663614
+2024-10-01T22:15:22Z,241.83,USD,Jessica,Utilities,False,Utilities,electricity,0.5133244
+2024-10-01T18:50:24Z,51.97,USD,Keith,Payment,False,Rent,deposit,0.55584097
+2024-10-01T15:31:40Z,816.87,USD,Melanie,Payment,False,Rent,deposit,0.55584097
+2024-10-01T06:29:25Z,787.5,USD,Bridget,Payment,False,Rent,deposit,0.55584097
+2024-10-01T06:20:40Z,3187.49,USD,Bridget,Rent sept,False,Rent,rent,0.72996855
+2024-10-01T04:07:56Z,16.22,USD,Erica,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-10-01T04:06:51Z,26.84,USD,Adam,Payment,False,Rent,deposit,0.55584097
+2024-09-30T19:27:07Z,9.45,USD,Christopher,Bulbs,True,Utilities,electricity,0.44010592
+2024-09-30T04:14:38Z,24.58,USD,Nicholas,Payment,False,Rent,deposit,0.55584097
+2024-09-29T22:15:48Z,6.92,USD,Christopher,Bombay Express+ boba up,True,Groceries,indian store,0.37359655
+2024-09-29T05:03:28Z,51.97,USD,Lisa,Payment,False,Rent,deposit,0.55584097
+2024-09-29T04:38:24Z,60.02,USD,Melanie,Payment,False,Rent,deposit,0.55584097
+2024-09-26T05:24:58Z,27.34,USD,Melanie,Payment,False,Rent,deposit,0.55584097
+2024-09-26T04:57:42Z,21.58,USD,Melanie,Paninpuri+ pav + yogurt,True,Groceries,whole foods,0.36188748
+2024-09-26T04:56:13Z,12.98,USD,Christopher,Walmart,False,Groceries,walmart,1.0000001
+2024-09-25T19:23:21Z,30.56,USD,Erica,Gas Shell,False,Utilities,gas,0.67896986
+2024-09-24T23:27:20Z,6.6,USD,Erica,Subway,False,Eating Out,starbucks,0.63043666
+2024-09-24T23:19:50Z,59.27,USD,Erica,Gas,False,Utilities,gas,1.0
+2024-09-24T22:21:48Z,6.0,USD,Debra,Subway,False,Eating Out,starbucks,0.63043666
+2024-09-24T22:21:15Z,73.0,USD,Jeremy,Dawat a ishq dinner,False,Eating Out,dinner,0.5693748
+2024-09-24T21:38:53Z,99.66,USD,Nicholas,Payment,False,Rent,deposit,0.55584097
+2024-09-24T21:26:52Z,45.5,USD,Nicholas,Subway,False,Eating Out,starbucks,0.63043666
+2024-09-24T19:02:28Z,6.08,USD,Jeremy,Gas station snacks,False,Utilities,gas,0.54716504
+2024-09-24T18:58:38Z,17.98,USD,Melanie,Dominoes,False,Eating Out,dominos,0.9561657
+2024-09-24T18:55:52Z,47.43,USD,Jessica,Gas,False,Utilities,gas,1.0
+2024-09-24T18:55:31Z,10.4,USD,Jessica,Trillium Entry fee,True,Rent,deposit,0.2888783
+2024-09-24T18:53:49Z,151.2,USD,Nicholas,Sixt Car,True,Utilities,t-mobile,0.29551712
+2024-09-24T18:53:15Z,60.8,USD,Jeremy,Gas,False,Utilities,gas,1.0
+2024-09-24T18:52:56Z,10.4,USD,Teresa,Entry lake trillium,True,Alcohol & Leisure,brewery,0.23427372
+2024-09-24T18:40:44Z,18.0,USD,Melanie,Throw,True,Eating Out,takeout,0.38521552
+2024-09-24T18:39:42Z,4.38,USD,Nicholas,Mozarella bites ,True,Eating Out,zomato,0.33398625
+2024-09-24T18:37:59Z,14.0,USD,Nicholas,Dominos pizza,False,Eating Out,dominos,0.90760916
+2024-09-24T17:50:56Z,21.07,USD,Erica,Walmart,False,Groceries,walmart,1.0
+2024-09-24T17:45:44Z,18.5,USD,Adam,Qdoba,False,Groceries,qfc,0.5420291
+2024-09-24T17:45:06Z,134.74,USD,Nicholas,Avis,True,Utilities,internet,0.2854318
+2024-09-24T17:15:51Z,258.92,USD,Adam,Portland Hotel,False,Eating Out,restaurant,0.4818355
+2024-09-24T17:13:41Z,50.5,USD,Melanie,Seattle airport to u district cab ,False,Utilities,seattle city light,0.5014431
+2024-09-21T15:48:27Z,9.0,USD,Debra,Cab,False,Alcohol & Leisure,bar,0.50387585
+2024-09-19T23:24:39Z,7.64,USD,Jessica,"Walmart onion, potato",False,Groceries,vegetables,0.5518649
+2024-09-19T16:53:47Z,207.88,USD,Lindsay,mint plan sept to nov,True,Utilities,power bill,0.25261527
+2024-09-17T16:42:42Z,21.33,USD,Melanie,Walmart common + anushka personal,False,Groceries,walmart,0.610322
+2024-09-17T03:55:47Z,282.39,USD,Jason,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-09-17T03:55:47Z,282.39,USD,Jessica,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-09-17T03:55:46Z,239.76,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-09-17T03:55:00Z,57.5,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-09-17T03:53:07Z,40.68,USD,Jessica,Paneer costco - june/july,False,Groceries,costco,0.52673274
+2024-09-17T02:39:56Z,57.5,USD,Jessica,costco,False,Groceries,costco,0.99999994
+2024-09-16T18:07:42Z,18.34,USD,Melanie,Cab both way,True,Alcohol & Leisure,bar,0.32212794
+2024-09-16T18:07:14Z,17.5,USD,Melanie,Little thai,True,Eating Out,burger,0.39013374
+2024-09-16T17:45:21Z,25.78,USD,Melanie,Redmond food,False,Groceries,vegetables,0.46946037
+2024-09-16T17:43:25Z,11.55,USD,Melanie,Earls,True,Alcohol & Leisure,pub,0.40544897
+2024-09-13T21:05:51Z,184.77,USD,Matthew,Utility: aug 1 - 31,True,Eating Out,eatery,0.31376585
+2024-09-13T21:04:24Z,88.3,USD,Jessica,Elec: july 10 - sept 6,True,Groceries,aldi,0.26281527
+2024-09-11T18:17:34Z,39.82,USD,Michelle,Chilis ,False,Eating Out,pizza,0.53922284
+2024-09-11T18:17:02Z,21.98,USD,Jessica,Walmart rice ,False,Groceries,whole foods,0.6275957
+2024-09-11T18:16:23Z,19.99,USD,Melanie,Costco paneer + safeway,False,Groceries,safeway,0.63439465
+2024-09-11T18:15:57Z,39.84,USD,Jessica,Costco common,False,Groceries,costco,0.87241256
+2024-09-10T23:33:11Z,37.29,USD,Melanie,"Tv room blanket, pillows and bedsheet",True,Rent,room rent,0.30348063
+2024-09-10T23:32:59Z,44.07,USD,Melanie,Epilator,True,Utilities,recharge,0.31084526
+2024-09-09T19:20:03Z,19.8,USD,Melanie,Walmart common between us,False,Groceries,walmart,0.70258236
+2024-09-09T19:16:18Z,20.58,USD,Bridget,Mop and insect spray,True,Groceries,vegetables,0.14722875
+2024-09-09T19:14:25Z,19.58,USD,Jessica,Walmart Anushka personal ,False,Groceries,walmart,0.68295145
+2024-09-09T19:13:59Z,19.8,USD,Melanie,Walmart common between us,False,Groceries,walmart,0.70258236
+2024-09-07T04:17:22Z,15.0,USD,Jason,Settle all balances,True,Eating Out,takeout,0.26679695
+2024-09-07T04:17:22Z,366.63,USD,Matthew,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-09-04T21:07:31Z,21.0,USD,Melanie,Drawers,True,Groceries,groceries,0.32683325
+2024-09-04T21:04:00Z,816.87,USD,Melanie,Payment,False,Rent,deposit,0.5558409
+2024-09-04T21:00:11Z,216.99,USD,Melanie,Utilities,False,Utilities,electricity,0.5133244
+2024-09-04T20:57:18Z,20.0,USD,Jessica,Weighing scale ,True,Utilities, Mobile data,0.14098565
+2024-09-04T07:48:28Z,13.64,USD,Michelle,Lyft ride,True,Groceries,safeway,0.40184933
+2024-09-03T03:26:04Z,40.0,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-09-02T23:17:44Z,40.0,USD,Jessica,Bed frame,True,Alcohol & Leisure,bar,0.30762315
+2024-09-02T14:18:46Z,779.38,USD,Bridget,Payment,False,Rent,deposit,0.5558409
+2024-09-02T05:51:09Z,816.87,USD,Melanie,Payment,False,Rent,deposit,0.5558409
+2024-09-02T04:21:03Z,779.38,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-09-02T03:53:09Z,37.5,USD,Christopher,Wifi - September ,False,Utilities,wifi,0.6630924
+2024-09-02T03:52:17Z,3150.0,USD,Bridget,Rent - september,False,Rent,rent,0.6629665
+2024-08-31T07:49:24Z,159.28,USD,Matthew,Utility: july 1-31,True,Utilities,power bill,0.38797873
+2024-08-30T15:13:40Z,28.23,USD,Jessica,Meds and oatmilk,True,Groceries,milk,0.41331214
+2024-08-29T04:20:46Z,10.0,USD,Michelle,Safeway,False,Groceries,safeway,0.9999999
+2024-08-25T02:47:42Z,9.45,USD,Jessica,Amruta’s bday gift ,True,Groceries,indian store,0.2831777
+2024-08-20T00:38:53Z,22.36,USD,Jessica,Rakhi ,True,Groceries,indian store,0.33537388
+2024-08-19T07:32:33Z,98.1,USD,Michelle,Flight,True,Alcohol & Leisure,beer,0.436804
+2024-08-16T01:23:39Z,14.32,USD,Jessica,Dominos,False,Eating Out,dominos,1.0
+2024-08-16T01:22:18Z,7.98,USD,Jessica,Ice cream qfc,False,Groceries,qfc,0.7192992
+2024-08-15T22:50:15Z,16.08,USD,Danielle,Payment,False,Rent,deposit,0.5558409
+2024-08-13T07:27:58Z,6.99,USD,Jessica,Qfc frozen,False,Groceries,qfc,0.6805
+2024-08-13T07:09:01Z,22.0,USD,Jessica,Gyro ,True,Eating Out,zomato,0.33916616
+2024-08-13T07:07:51Z,25.0,USD,Danielle,Cake,True,Utilities,gas,0.43752182
+2024-08-13T07:06:59Z,6.0,USD,Jason,Piroshky,True,Eating Out,zomato,0.36753696
+2024-08-13T07:06:35Z,29.48,USD,Jessica,Alcohol-aug 10,False,Alcohol & Leisure,alcohol,0.66530395
+2024-08-13T07:05:11Z,81.75,USD,Linda,Skyview columbia tower,True,Utilities,seattle city light,0.41093117
+2024-08-13T07:05:05Z,80.56,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-08-09T21:02:13Z,72.53,USD,Robert,Icecream party (alcohol) ,False,Alcohol & Leisure,drinks,0.59225166
+2024-08-09T05:06:49Z,5.98,USD,Jessica,"Sprout bean, cherries",True,Groceries,vegetables,0.4442851
+2024-08-07T19:35:11Z,0.33,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-08-06T20:59:31Z,6.0,USD,Linda,Leavenworth meal,True,Eating Out,eatery,0.4376312
+2024-08-05T05:49:36Z,50.51,USD,Jessica,Apna bazaar,True,Groceries,aldi,0.32597148
+2024-08-05T04:22:27Z,133.42,USD,Jason,Elec: may 08-jul 10,True,Groceries,aldi,0.27102455
+2024-08-05T04:20:05Z,187.82,USD,Jessica,Utility: june 1-30,True,Utilities,power bill,0.35794228
+2024-08-04T19:13:41Z,10.45,USD,Jessica,Lyft ride,True,Groceries,safeway,0.40184933
+2024-08-04T00:05:07Z,13.23,USD,Jason,Lemon margarita,False,Alcohol & Leisure,tequila,0.64813185
+2024-08-03T22:36:23Z,795.62,USD,Jessica,Aug rent goss,False,Rent,rent,0.60198224
+2024-08-02T00:25:01Z,71.9,USD,Linda,Jai Thai @ 25th July,True,Groceries,indian store,0.31467652
+2024-07-30T20:43:32Z,33.03,USD,Jessica,Snacks & Chips QFC,False,Groceries,qfc,0.5795008
+2024-07-30T20:41:44Z,127.24,USD,Linda,Car rental (Enterpise),False,Rent,rent,0.5567686
+2024-07-30T20:36:44Z,43.06,USD,Jason,Unleaded Gas & Parking,False,Utilities,gas,0.50898343
+2024-07-30T20:28:07Z,81.33,USD,Jason,Royal Biryani House,True,Eating Out,cafe,0.3955955
+2024-07-30T15:20:53Z,4.19,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-07-28T18:03:04Z,32.74,USD,Jason,Chicken tenders and mango lemonade,True,Alcohol & Leisure,drinks,0.41477966
+2024-07-27T08:48:36Z,38.93,USD,Lindsay,Settle all balances,True,Eating Out,takeout,0.26679695
+2024-07-25T06:32:29Z,10.98,USD,Jason,"Tortilla(0.99),cham tea(3),cake(2.99),lime juice(1.49),cucumbers(2.5)",True,Groceries,whole foods,0.43474716
+2024-07-23T17:31:06Z,11.83,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-07-21T05:00:22Z,5.0,USD,Matthew,Handwash,True,Alcohol & Leisure,wine,0.37333602
+2024-07-20T00:25:02Z,8.83,USD,Jason,Sanjana gift,True,Groceries,indian store,0.3901198
+2024-07-20T00:24:36Z,49.11,USD,Jessica,Agua verde,True,Groceries,aldi,0.31865978
+2024-07-19T17:23:02Z,19.32,USD,Melanie,Cedars,True,Groceries,trader joe's,0.39377683
+2024-07-19T17:20:14Z,2.99,USD,Melanie,Garlic naan,True,Eating Out,eatery,0.3885643
+2024-07-19T16:23:35Z,6.0,USD,Melanie,Boba up,True,Alcohol & Leisure,bar,0.31277183
+2024-07-18T01:50:32Z,24.98,USD,Jason,"Qfc(tilapia 12.99, shrimp 11.99)",False,Groceries,qfc,0.52003676
+2024-07-16T16:12:40Z,0.7,USD,Jason,Lemon yogurt,False,Groceries,whole foods,0.48800075
+2024-07-16T16:12:12Z,9.1,USD,Jessica,Watermelon- safeway,False,Groceries,safeway,0.63761866
+2024-07-10T06:11:04Z,62.68,USD,Linda,Bombay street food,True,Groceries,indian store,0.44969845
+2024-07-06T00:43:52Z,32.2,USD,Jessica,"4th july-food(21),wine(11.2)",False,Alcohol & Leisure,wine,0.52668566
+2024-07-05T23:37:13Z,120.12,USD,Jessica,Alcohol @ 04/07/24,False,Alcohol & Leisure,alcohol,0.5640927
+2024-07-05T23:26:23Z,110.82,USD,Robert,Duchess Tavern,False,Eating Out,cafe,0.60411775
+2024-07-02T03:53:26Z,15.0,USD,Jessica,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-07-02T03:53:26Z,11.92,USD,Melanie,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-07-02T03:53:26Z,3.08,USD,Melanie,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-07-02T03:53:25Z,30.67,USD,Melanie,Payment,False,Rent,deposit,0.5558409
+2024-07-02T03:50:27Z,15.75,USD,Melanie,Payment,False,Rent,deposit,0.5558409
+2024-07-01T23:16:24Z,131.53,USD,Keith,Payment,False,Rent,deposit,0.5558409
+2024-07-01T23:16:20Z,131.53,USD,Keith,Payment,False,Rent,deposit,0.55584097
+2024-06-30T03:50:50Z,19.93,USD,Jessica,La Parisienne ,True,Eating Out,burger,0.32916862
+2024-06-30T00:33:23Z,93.55,USD,Matthew,Elec: april 1-may 8,True,Groceries,aldi,0.24281533
+2024-06-30T00:33:08Z,42.43,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-06-30T00:32:09Z,25.14,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-06-30T00:30:45Z,13.48,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-06-30T00:29:39Z,49.2,USD,Jason,Elec: march 12-31,True,Groceries,aldi,0.22901756
+2024-06-30T00:29:28Z,10.1,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-06-30T00:29:15Z,42.5,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-06-30T00:28:13Z,15.4,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-06-30T00:25:13Z,161.18,USD,Jason,Settle all balances,True,Eating Out,takeout,0.26679695
+2024-06-30T00:25:13Z,15.11,USD,Jessica,Settle all balances,True,Eating Out,takeout,0.26679695
+2024-06-30T00:25:13Z,146.07,USD,Jessica,Settle all balances,True,Eating Out,takeout,0.26679695
+2024-06-30T00:25:09Z,161.38,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2024-06-30T00:20:26Z,146.08,USD,Jessica,Utility: may 1-31,True,Utilities,power bill,0.3354903
+2024-06-30T00:18:19Z,24.6,USD,Jessica,Vons,True,Groceries,tj's,0.39421648
+2024-06-30T00:17:51Z,22.4,USD,Jason,Vons,True,Groceries,tj's,0.39421648
+2024-06-30T00:11:08Z,30.49,USD,Jessica,Navy strength - Tacos and shots,True,Alcohol & Leisure,tequila,0.30306727
+2024-06-30T00:10:25Z,8.06,USD,Jessica,Lime ride,True,Alcohol & Leisure,tequila,0.36255464
+2024-06-30T00:09:04Z,6.07,USD,Jessica,Lime - May 31st,True,Alcohol & Leisure,liquor,0.30648988
+2024-06-29T07:18:24Z,218.51,USD,Linda,Rumba,True,Alcohol & Leisure,tequila,0.4203753
+2024-06-29T06:56:59Z,9.5,USD,Michelle,BB and Dollar 6.5+3,True,Rent,deposit,0.32556087
+2024-06-27T03:41:19Z,2.49,USD,Jason,Salt,True,Groceries,milk,0.44750643
+2024-06-25T09:14:23Z,110.78,INR,James,Payment,False,Rent,deposit,0.5558409
+2024-06-25T09:14:03Z,80.0,INR,Cassandra,Payment,False,Rent,deposit,0.5558409
+2024-06-23T04:05:00Z,16.48,USD,Jason,Shawarma time,True,Alcohol & Leisure,happy hour,0.31125727
+2024-06-23T04:04:39Z,19.04,USD,Jason,Kayaking,True,Alcohol & Leisure,beer,0.37731048
+2024-06-21T04:34:01Z,14.87,USD,Melanie,Apna bazaar hardika,True,Groceries,indian store,0.29967207
+2024-06-21T04:33:33Z,29.75,USD,Melanie,Apna bazaar hardika friend,True,Groceries,indian store,0.30488276
+2024-06-20T06:41:48Z,4.19,USD,Jessica,Bhindi,True,Groceries,aldi,0.39191484
+2024-06-20T05:56:14Z,207.64,USD,Jessica,mint plan jun-aug,True,Rent,deposit,0.29518947
+2024-06-20T05:47:53Z,51.91,USD,Jessica,Ananth,True,Alcohol & Leisure,happy hour,0.3201095
+2024-06-19T18:44:00Z,21.12,USD,Jason,costco nov 25,False,Groceries,costco,0.72306705
+2024-06-19T15:12:35Z,51.91,USD,Lindsay,Gautam,True,Eating Out,zomato,0.39714718
+2024-06-19T08:27:18Z,16.87,USD,Jessica,Apna bazaar,True,Groceries,aldi,0.32597148
+2024-06-19T08:26:07Z,27.67,USD,Jessica,Apna bazaar roti,True,Groceries,aldi,0.3383292
+2024-06-18T21:08:09Z,2.5,USD,Jessica,Dollar tree: bounty 2,True,Rent,deposit,0.2997319
+2024-06-18T21:06:59Z,3.75,USD,Jessica,"Dollar tree: shower curtain rings, handwash, air freshner",True,Utilities,water bill,0.25914443
+2024-06-18T16:07:07Z,51.91,USD,Lindsay,Anushka,True,Eating Out,starbucks,0.3712715
+2024-06-17T05:15:46Z,53.91,USD,Linda,Maharaja U Village,True,Groceries,indian store,0.42377424
+2024-06-16T20:46:47Z,61.59,USD,Robert,Uber,False,Groceries,aldi,0.5505548
+2024-06-14T18:28:31Z,12.98,USD,Lindsay,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-06-13T15:08:21Z,51.91,USD,Keith,Dhrunil,True,Groceries,aldi,0.39638665
+2024-06-12T18:51:56Z,143.2,USD,Jessica,Utility: april 1-30,True,Utilities,power bill,0.3307032
+2024-06-10T23:48:01Z,12.48,USD,Melanie,Whole foods bakery ,False,Groceries,whole foods,0.7588113
+2024-06-09T21:17:43Z,4.4,USD,Jason,Handwash,True,Alcohol & Leisure,wine,0.37333602
+2024-06-07T01:18:43Z,9.25,USD,Melanie,Boba cafe happy,False,Eating Out,cafe,0.62163436
+2024-06-05T07:28:05Z,28.0,USD,Jessica,Air fryer,True,Utilities,gas,0.41477007
+2024-06-05T07:07:20Z,10.86,USD,Michelle,Karaoke,False,Eating Out,restaurant,0.46063322
+2024-06-05T07:04:55Z,25.96,USD,Melanie,Maggi point(15.1)& karaoke(10.86),True,Eating Out,restaurant,0.27030328
+2024-06-05T07:01:40Z,20.82,USD,Linda,Payment,False,Rent,deposit,0.5558409
+2024-06-05T06:18:04Z,29.7,USD,Jessica,maggi point ishika and anushka,True,Eating Out,starbucks,0.22248352
+2024-06-05T06:16:34Z,32.58,USD,Jesse,anushka hardika ishika karaoke (10.86 pp),True,Eating Out,restaurant,0.28176218
+2024-06-04T21:28:41Z,41.64,USD,Linda,Kirkland lunch,False,Eating Out,lunch,0.6253878
+2024-05-28T23:45:03Z,2.43,USD,Christine,Payment,False,Rent,deposit,0.5558409
+2024-05-28T23:42:48Z,22.46,USD,Melanie,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-05-28T23:42:13Z,20.01,USD,Melanie,Payment,False,Rent,deposit,0.5558409
+2024-05-28T16:13:56Z,2.48,USD,Lisa,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-05-26T23:36:35Z,1.88,USD,Janet,Payment,False,Rent,deposit,0.5558409
+2024-05-26T23:36:34Z,7.15,USD,Christine,Payment,False,Rent,deposit,0.5558409
+2024-05-26T14:30:42Z,18.0,USD,Jessica,Cocktail,False,Alcohol & Leisure,drinks,0.6864693
+2024-05-26T14:30:07Z,38.59,USD,Janet,Tequila shots 2nd round ,False,Alcohol & Leisure,tequila,0.7305623
+2024-05-26T14:28:25Z,35.74,USD,Janet,Cab rides,True,Alcohol & Leisure,bar,0.42355758
+2024-05-26T01:38:11Z,7.5,USD,Christine,fireball,True,Utilities,gas,0.38584536
+2024-05-25T21:34:35Z,61.75,USD,Christine,shots,False,Alcohol & Leisure,drinks,0.49408478
+2024-05-25T20:49:21Z,32.0,INR,Christine,Cab ,False,Alcohol & Leisure,bar,0.5038758
+2024-05-15T16:31:21Z,4.3,USD,Jessica,Mod pizza,False,Eating Out,pizza,0.70624053
+2024-05-15T16:30:59Z,6.57,USD,Jessica,Starbucks,False,Eating Out,starbucks,1.0000002
+2024-05-15T06:08:08Z,22.0,USD,Jessica,Blender,True,Utilities,internet,0.36839896
+2024-05-15T06:07:17Z,13.5,USD,Jessica,Paneer,False,Eating Out,burger,0.46725464
+2024-05-13T21:35:53Z,4.17,USD,Melanie,Cab,False,Alcohol & Leisure,bar,0.50387585
+2024-05-10T17:05:58Z,5.99,USD,Jessica,Boba,True,Eating Out,burger,0.3348683
+2024-05-10T17:05:33Z,6.59,USD,Melanie,Pani puri,True,Groceries,indian store,0.30283952
+2024-05-04T16:35:52Z,31.2,USD,Jessica,The ordinary skincare,True,Rent,flat,0.23941568
+2024-05-04T16:32:44Z,4.49,USD,Matthew,Jeera,True,Groceries,fred meyer,0.3242814
+2024-05-04T00:24:58Z,162.77,USD,Jason,Utility: mar 1-31,True,Utilities,power bill,0.31527185
+2024-05-01T06:23:41Z,145.27,USD,Jason,utility: mar 1-31,True,Utilities,power bill,0.31527185
+2024-05-01T06:23:06Z,17.5,USD,Jason,utility,True,Utilities,electricity,0.4127808
+2024-04-30T23:10:57Z,162.77,USD,Jason,utility: mar 1-mar 31,True,Utilities,power bill,0.33677778
+2024-04-30T00:36:42Z,7.82,USD,Jesse,"Apna bazaar, dominos",False,Eating Out,dominos,0.54818356
+2024-04-29T00:27:15Z,15.5,USD,Melanie,Payment,False,Rent,deposit,0.5558409
+2024-04-26T18:16:25Z,15.7,USD,Jessica,White pant,True,Eating Out,chipotle,0.33719984
+2024-04-26T18:15:43Z,3.99,USD,Jessica,Garlic bread,False,Eating Out,pizza,0.5414495
+2024-04-26T18:12:59Z,13.5,USD,Jessica,Costco paneer,False,Groceries,costco,0.64234626
+2024-04-26T18:11:13Z,13.5,USD,Jessica,Costco paneer,False,Groceries,costco,0.64234626
+2024-04-26T03:50:53Z,18.49,USD,Jason,Costco,False,Groceries,costco,0.99999994
+2024-04-26T03:50:21Z,27.0,USD,Jason,Paneer-hardika&ishika,True,Eating Out,zomato,0.277846
+2024-04-26T01:40:50Z,17.68,USD,Jason,Payment,False,Rent,deposit,0.5558409
+2024-04-26T01:40:39Z,401.85,USD,Jason,Payment,False,Rent,deposit,0.5558409
+2024-04-14T16:29:04Z,12.75,USD,Jessica,Dollar tree,True,Groceries,walmart,0.36523542
+2024-04-10T00:37:07Z,10.83,USD,Joseph,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-04-08T18:12:04Z,11.57,USD,Jason,Durvas gift,True,Groceries,indian store,0.26989236
+2024-04-04T22:53:48Z,486.36,USD,Jason,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-04-04T22:53:48Z,53.28,USD,Jessica,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-04-04T22:53:48Z,4.6,USD,Jessica,Settle all balances,True,Eating Out,takeout,0.26679695
+2024-04-04T22:53:48Z,428.48,USD,Jessica,Settle all balances,True,Eating Out,takeout,0.26679695
+2024-04-04T22:53:46Z,414.52,USD,Jason,Payment,False,Rent,deposit,0.55584097
+2024-04-03T18:58:58Z,79.63,USD,Lindsay,Settle all balances,True,Eating Out,takeout,0.26679695
+2024-04-03T18:58:58Z,2.46,USD,Lisa,Settle all balances,True,Eating Out,takeout,0.26679695
+2024-04-03T00:50:43Z,1.0,USD,Matthew,Liquid freshner,True,Alcohol & Leisure,drinks,0.4134512
+2024-04-03T00:22:40Z,833.75,USD,Jason,Rent-april,False,Rent,rent,0.66975844
+2024-04-02T22:12:59Z,191.35,USD,Jessica,Elec: jan 9-march 11,True,Groceries,aldi,0.2794241
+2024-04-02T22:11:12Z,157.73,USD,Jason,Utility: feb 1-feb 29,True,Groceries,groceries,0.35295987
+2024-03-28T22:20:04Z,0.18,USD,Brandon,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-03-27T02:12:40Z,52.8,USD,Lisa,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-03-21T19:51:37Z,51.93,USD,Lindsay,4th,True,Eating Out,takeout,0.34161997
+2024-03-20T07:55:28Z,51.93,USD,Lindsay,3rd,True,Eating Out,takeout,0.3488052
+2024-03-20T07:54:34Z,21.93,USD,Lindsay,2nd,True,Eating Out,takeout,0.34486637
+2024-03-16T07:21:56Z,51.93,USD,Keith,1st,True,Eating Out,takeout,0.3093642
+2024-03-05T07:14:52Z,11.57,USD,Jessica,Alladin ,True,Groceries,qfc,0.33225176
+2024-03-05T07:14:32Z,6.62,USD,Jason,Earls drink,False,Alcohol & Leisure,drinks,0.60353065
+2024-03-04T09:30:41Z,15.35,USD,Lindsay,Pizza cheesecake factory,False,Eating Out,pizza,0.58758205
+2024-03-04T07:16:00Z,14.25,USD,Jason,Cheesecake,False,Eating Out,pizza,0.49759877
+2024-03-04T02:48:56Z,5.49,USD,Jason,Skincare,True,Groceries,walmart,0.28137374
+2024-03-04T02:45:34Z,49.54,USD,Jessica,Necklace,True,Alcohol & Leisure,wine,0.40522128
+2024-03-04T02:44:11Z,51.15,USD,Lindsay,Purse,False,Groceries,grocery,0.47627822
+2024-03-03T21:08:30Z,6.6,USD,Patricia,Payment,False,Rent,deposit,0.5558409
+2024-03-01T21:29:19Z,127.66,USD,Matthew,Utility: jan 1-31,True,Utilities,power bill,0.32222337
+2024-02-26T07:03:11Z,2.49,USD,Matthew,Salt,True,Groceries,milk,0.44750643
+2024-02-24T22:22:23Z,30.47,USD,Jesse,Settle all balances,True,Eating Out,takeout,0.26679695
+2024-02-24T22:21:39Z,9.97,USD,Lindsay,Settle all balances,True,Eating Out,takeout,0.26679695
+2024-02-24T22:20:59Z,4.94,USD,Jesse,Payment,False,Rent,deposit,0.5558409
+2024-02-21T00:44:14Z,1.19,USD,Susan,Payment,False,Rent,deposit,0.5558409
+2024-02-21T00:42:51Z,17.36,USD,Brandon,Payment,False,Rent,deposit,0.5558409
+2024-02-19T18:27:22Z,18.97,USD,Jason,"Apna bazaar(bhindi,green chillies,toor,moong dal)",True,Groceries,indian store,0.44662595
+2024-02-19T18:26:28Z,5.24,USD,Jessica,Split moong dal,True,Eating Out,dominos,0.2243593
+2024-02-19T18:25:17Z,45.7,USD,Lisa,"Apna bazaar order- (rotis,moong,dal)",True,Groceries,indian store,0.2636336
+2024-02-19T04:29:08Z,9.94,USD,Lisa,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-02-19T04:17:32Z,18.89,USD,Lisa,target mixers,True,Utilities,broadband,0.30531847
+2024-02-19T04:10:11Z,30.82,USD,Jesse,dominos,False,Eating Out,dominos,1.0
+2024-02-18T02:28:51Z,13.97,USD,Jason,Paneer-instacart,True,Eating Out,burger,0.34333932
+2024-02-18T02:27:31Z,41.32,USD,Jessica,Instacart(dishwasher pods+liquid+rice),True,Groceries,whole foods,0.32412136
+2024-02-18T02:26:54Z,8.28,USD,Jesse,Garlic-instacart,True,Eating Out,pizza,0.40712625
+2024-02-13T01:40:55Z,43.05,USD,Matthew,Chicken and paneer- costco,False,Groceries,costco,0.5880888
+2024-02-12T19:26:22Z,20.84,USD,Jason,Prachis gift: skincare set elf,True,Groceries,indian store,0.23504609
+2024-02-10T20:39:36Z,4.7,USD,Debra,Costco cream cheese,False,Groceries,costco,0.67165935
+2024-02-10T19:01:57Z,17.64,USD,Lisa,Mario's Pizza 22/12,False,Eating Out,pizza,0.60060436
+2024-02-10T19:01:28Z,8.82,USD,Jessica,Mario's cocktail 22/12,False,Alcohol & Leisure,tequila,0.45870206
+2024-02-08T00:16:08Z,3.0,USD,Lisa,Green chilli chilli’s,True,Groceries,whole foods,0.38152194
+2024-02-08T00:13:27Z,2.53,USD,Jessica,"Tomatoes,capsicum",False,Groceries,vegetables,0.6093162
+2024-02-07T21:27:02Z,1.56,USD,Jason,Payment,False,Rent,deposit,0.55584097
+2024-02-07T04:23:13Z,5.48,USD,Debra,Costco pizza ,False,Groceries,costco,0.8144599
+2024-02-07T02:42:07Z,172.15,USD,Brandon,Payment,False,Rent,deposit,0.55584097
+2024-02-07T02:30:40Z,13.0,USD,Debra,Movie,True,Alcohol & Leisure,beer,0.41067535
+2024-02-07T02:29:49Z,19.8,USD,Patricia,Water filter,False,Utilities,water bill,0.5190479
+2024-02-07T00:50:36Z,2.51,USD,Angel,Settle all balances,True,Eating Out,takeout,0.26679695
+2024-02-05T00:06:09Z,9.83,USD,Lisa,TJs + qfc,False,Groceries,qfc,0.65038383
+2024-02-04T23:37:33Z,8.28,USD,Jason,Krave cereal and asian zing,True,Groceries,whole foods,0.3739434
+2024-02-04T23:33:58Z,14.6,USD,Jesse,Vodka teaquila party with goss girls,False,Alcohol & Leisure,vodka,0.5397674
+2024-02-04T23:32:42Z,24.06,USD,Lindsay,"Brocolli, cauliflower, cheese etc and choc alc (dreamland bar)",False,Groceries,whole foods,0.5085506
+2024-02-02T23:25:47Z,172.15,USD,Brandon,Costco,False,Groceries,costco,1.0
+2024-01-28T20:23:06Z,4.49,USD,Brandon,Hummus,True,Groceries,whole foods,0.42273414
+2024-01-28T20:22:06Z,12.87,USD,Joseph,Milk,False,Groceries,milk,1.0
+2024-01-23T05:08:00Z,42.35,USD,Jason,"Truly vodka, bar fries, neil leaving party (vodka and tequila) ",False,Alcohol & Leisure,vodka,0.62744963
+2024-01-23T05:06:34Z,11.79,USD,Jesse,"Waffles, whip cream, cheese",True,Eating Out,eatery,0.42768103
+2024-01-23T05:01:03Z,15.46,USD,Lindsay,"Qfc dec ( hershey chips, mushroom, muffin, pudding, cocoa powder)",False,Groceries,whole foods,0.510818
+2024-01-23T05:00:17Z,45.76,USD,Jessica,Qfc and dreamland bar margerita,False,Groceries,qfc,0.6402121
+2024-01-22T02:58:51Z,13.8,USD,Jason,Strbs coffee and storage box qfc,False,Groceries,qfc,0.5234934
+2024-01-21T23:08:55Z,290.48,USD,Jessica,Elec: Nov 6 - Jan 9(137.15$) & Utility: dec 1-31 (153.33$),True,Groceries,aldi,0.3048797
+2024-01-20T07:34:19Z,11.01,USD,Jason,Toilet cleaning,True,Eating Out,takeout,0.32049546
+2024-01-16T00:01:10Z,25.0,USD,Brandon,Payment,False,Rent,deposit,0.55584097
+2024-01-15T19:18:10Z,1.57,USD,Brandon,Payment,False,Rent,deposit,0.55584097
+2024-01-13T00:09:33Z,27.62,USD,Jessica,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-01-13T00:09:33Z,27.62,USD,Susan,Settle all balances,True,Eating Out,takeout,0.26679707
+2024-01-13T00:09:31Z,16.37,USD,Susan,Payment,False,Rent,deposit,0.55584097
+2024-01-10T01:50:07Z,6.0,USD,Jason,Chilli’s moong dal,True,Alcohol & Leisure,tequila,0.30759835
+2024-01-06T23:56:28Z,20.5,USD,Jessica,Payment,False,Rent,deposit,0.55584097
+2024-01-06T20:24:14Z,17.3,USD,Maria,Payment,False,Rent,deposit,0.55584097
+2024-01-06T15:17:55Z,7.39,USD,Jessica,"Spinach, tomatoes, capsicum ",False,Groceries,vegetables,0.65005076
+2024-01-03T18:52:59Z,11.99,USD,Jessica,Adam spicy halal ,True,Alcohol & Leisure,whiskey,0.3299567
+2023-12-31T01:36:07Z,163.48,USD,Matthew,Utility,True,Utilities,electricity,0.4127808
+2023-12-31T01:10:32Z,23.95,USD,Angel,Halal bois,True,Alcohol & Leisure,liquor,0.43016285
+2023-12-31T01:07:53Z,4.69,USD,Angel,Lettuce and cheese taco,False,Groceries,vegetables,0.5017715
+2023-12-31T01:01:13Z,8.71,USD,Angel,Hot chocolate ,False,Groceries,milk,0.5137611
+2023-12-30T15:39:17Z,4.5,USD,Maria,Return Bus Ticket ,True,Utilities,recharge,0.1804646
+2023-12-29T21:20:27Z,20.89,USD,Angel,Drinks,False,Alcohol & Leisure,drinks,1.0
+2023-12-29T21:17:48Z,3.27,USD,Angel,1 dollan pizza,False,Eating Out,pizza,0.5660383
+2023-12-29T21:17:03Z,2.71,USD,Angel,Miniso goti soda,True,Alcohol & Leisure,drinks,0.3844887
+2023-12-29T21:16:59Z,16.0,USD,Maria,Anushka's Frames,True,Alcohol & Leisure,happy hour,0.2665473
+2023-12-29T21:16:14Z,11.97,USD,Jessica,NY tees,True,Groceries,tj's,0.42939872
+2023-12-29T21:16:07Z,5.2,USD,Maria,Train Tickets ,True,Eating Out,dominos,0.2973432
+2023-12-29T21:15:22Z,5.0,USD,Maria,Churros,True,Eating Out,dominos,0.38195652
+2023-12-29T21:04:29Z,8.54,USD,Jessica,Stop and Shop,False,Groceries,walmart,0.46894926
+2023-12-29T21:01:57Z,2.71,USD,Maria,Watermelon juice,True,Alcohol & Leisure,drinks,0.437858
+2023-12-29T21:00:55Z,19.5,USD,Maria,Pizza,False,Eating Out,pizza,1.0000002
+2023-12-27T23:45:10Z,6.25,USD,Jason,Dollar tree,True,Groceries,walmart,0.36523542
+2023-12-25T02:19:56Z,2.99,USD,Matthew,Milk hmart,False,Groceries,milk,0.6700379
+2023-12-25T02:19:19Z,2.99,USD,Matthew,Milk hmart ,False,Groceries,milk,0.6700379
+2023-12-24T23:15:01Z,60.6,USD,Brandon,Taste of India (12/16),True,Groceries,indian store,0.4390449
+2023-12-23T19:13:50Z,6.81,USD,Jessica,Waffle ,True,Eating Out,lunch,0.43246418
+2023-12-23T00:28:54Z,12.01,USD,Jason,strawberry and banana,False,Groceries,whole foods,0.46867627
+2023-12-23T00:28:32Z,9.82,USD,Jessica,spinach and onion,False,Groceries,vegetables,0.5512936
+2023-12-23T00:27:55Z,9.82,USD,Jason,spinach and sweet onion,False,Groceries,vegetables,0.51552254
+2023-12-23T00:27:04Z,18.57,USD,Jason,sona masoori,True,Groceries,aldi,0.30398345
+2023-12-23T00:15:36Z,10.59,USD,Jason,Marinara,False,Alcohol & Leisure,tequila,0.4547214
+2023-12-23T00:14:31Z,12.89,USD,Jason,Paneer,False,Eating Out,burger,0.46725464
+2023-12-23T00:14:28Z,21.6,USD,Jessica,Chicken,False,Eating Out,burger,0.5360209
+2023-12-23T00:13:59Z,10.37,USD,Jason,Basil pesto,True,Alcohol & Leisure,tequila,0.31524992
+2023-12-23T00:13:08Z,12.34,USD,Jason,2% milk + eggs Costco ,True,Groceries,costco,0.44305423
+2023-12-23T00:11:19Z,9.83,USD,Jason,Dahi costco,False,Groceries,costco,0.72462213
+2023-12-23T00:07:37Z,3.16,USD,Jason,Whip cream,False,Groceries,milk,0.4666829
+2023-12-21T21:11:43Z,36.93,USD,Lindsay,Gautam,True,Eating Out,zomato,0.39714718
+2023-12-21T21:11:18Z,51.93,USD,Lindsay,Ananth,True,Alcohol & Leisure,happy hour,0.32010955
+2023-12-21T21:10:13Z,51.93,USD,Lisa,Dhrunil,True,Groceries,aldi,0.39638674
+2023-12-21T19:36:03Z,2.99,USD,Jessica,Tomatoes TJ's ,False,Groceries,tj's,0.70636815
+2023-12-21T19:35:39Z,1.59,USD,Matthew,Whole milk trader Joe's ,False,Groceries,trader joe's,0.86009586
+2023-12-17T09:09:17Z,5.62,USD,Jason,Lipstick,True,Groceries,milk,0.3944435
+2023-12-16T08:00:00Z,1.25,USD,Jessica,Small garbage bags,False,Groceries,groceries,0.46659434
+2023-12-16T08:00:00Z,5.0,USD,Jessica,"Dollar Tree-spoons, can opener, gloves, air freshener",True,Groceries,groceries,0.38894308
+2023-12-14T23:02:22Z,2.46,USD,Jason,Sprite,True,Alcohol & Leisure,wine,0.34999546
+2023-12-14T23:01:46Z,10.46,USD,Jason,Barefoot mascato,True,Eating Out,restaurant,0.3238489
+2023-12-11T01:01:22Z,7.59,USD,Jesse,Payment,False,Rent,deposit,0.5558409
+2023-12-10T18:25:58Z,2.78,USD,Lindsay,TJs,False,Groceries,tj's,0.6563281
+2023-12-07T00:18:54Z,3.99,USD,Jessica,Rava,True,Alcohol & Leisure,tequila,0.35209736
+2023-12-06T06:32:56Z,8.0,USD,Brandon,Payment,False,Rent,deposit,0.5558409
+2023-12-06T06:29:06Z,2.62,USD,Brandon,Payment,False,Rent,deposit,0.5558409
+2023-12-06T06:27:40Z,13.0,USD,Matthew,Payment,False,Rent,deposit,0.5558409
+2023-12-06T06:27:12Z,7.25,USD,Brandon,Settle all balances,True,Eating Out,takeout,0.26679695
+2023-12-06T06:24:45Z,7.25,USD,Joseph,Settle all balances,True,Eating Out,takeout,0.26679695
+2023-12-06T02:15:53Z,1.66,USD,Susan,Settle all balances,True,Eating Out,takeout,0.26679695
+2023-12-04T19:37:24Z,152.04,USD,Jessica,Utility,True,Utilities,electricity,0.4127808
+2023-12-03T23:21:35Z,1.99,USD,Susan,Settle all balances,True,Eating Out,takeout,0.26679707
+2023-12-03T23:14:19Z,5.8,USD,Matthew,"QFC-tomatoes, cilantro",False,Groceries,vegetables,0.4549384
+2023-12-03T23:13:00Z,3.99,USD,Joseph,QFC-milk,False,Groceries,qfc,0.6931735
+2023-12-03T05:31:59Z,1.49,USD,Jason,Lemon juice,False,Alcohol & Leisure,alcohol,0.52233815
+2023-12-03T05:27:13Z,22.85,USD,Jason,Neutrogena sunscreen(12.15) + cleanser(10.7),True,Alcohol & Leisure,vodka,0.28181434
+2023-11-30T16:21:17Z,33.03,USD,Jessica,Pur refills(19.82) + dustbin (13.2),True,Utilities,recharge,0.26259512
+2023-11-30T16:17:51Z,5.99,USD,Jessica,Palak,True,Alcohol & Leisure,pub,0.3423158
+2023-11-30T16:17:18Z,11.42,USD,Lisa,Iron,True,Utilities,gas,0.4464957
+2023-11-29T08:06:44Z,19.84,USD,Lisa,Vacuum cleaner ,True,Utilities,gas,0.40131998
+2023-11-29T07:58:42Z,10.1,USD,Jessica,Qfc,False,Groceries,qfc,0.9999999
+2023-11-29T07:57:37Z,4.11,USD,Jessica,Tomatoes,False,Groceries,vegetables,0.6991221
+2023-11-29T05:27:26Z,5.58,USD,Susan,Icecream ,True,Eating Out,chipotle,0.41019815
+2023-11-27T06:34:22Z,89.66,USD,Jessica,Elec bill Sep 26- Nov6,True,Utilities,power bill,0.4116441
+2023-11-25T20:21:05Z,3.75,USD,Matthew,"Refill, bathroom cleaner",True,Utilities,recharge,0.37178296
+2023-11-25T20:20:12Z,1.25,USD,Matthew,Colander ,True,Groceries,milk,0.38753384
+2023-11-25T20:19:37Z,5.0,USD,Matthew,Dollar tree common expense ,True,Groceries,costco,0.31460744
+2023-11-24T08:15:26Z,33.05,USD,Joseph,Anushka-Shoes,True,Eating Out,starbucks,0.38049847
+2023-11-22T07:57:02Z,7.72,USD,Brandon,Sephora,True,Groceries,walmart,0.4394707
+2023-11-22T07:54:12Z,39.0,USD,Joseph,Forever 21🤑🤑,True,Eating Out,dinner,0.27187735
+2023-11-18T05:28:53Z,26.4,USD,Joseph,Victoria Secret,True,Groceries,walmart,0.3576375
+2023-11-18T05:27:57Z,8.8,USD,Brandon,Victoria Secret,True,Groceries,walmart,0.3576375
+2023-11-10T08:47:52Z,10.2,USD,Jessica,Bubbly,False,Groceries,milk,0.45449713
+2023-11-10T07:09:37Z,12.19,USD,Lisa,Green apple vodka,False,Alcohol & Leisure,vodka,0.65503806
+2023-11-10T07:08:20Z,3.49,USD,Jessica,Soft tortilla 15oct,True,Groceries,whole foods,0.3077831
+2023-11-10T06:52:54Z,5.24,USD,Joseph,Icecream ,True,Eating Out,chipotle,0.41019815
+2023-11-06T07:55:59Z,1.29,USD,Jessica,Yellow bell pepper ,True,Eating Out,pizza,0.4126402
+2023-11-06T07:55:41Z,1.58,USD,Jessica,Green bell pepper ,True,Groceries,vegetables,0.4281026
+2023-11-06T07:55:15Z,2.99,USD,Jessica,Ranch,False,Eating Out,burger,0.49890643
+2023-11-03T14:08:44Z,14.46,USD,Jessica,Paneer,False,Eating Out,burger,0.46725464
+2023-11-03T14:06:06Z,7.5,USD,Jessica,Milk costco,False,Groceries,costco,0.8052155
+2023-11-03T14:05:27Z,8.26,USD,Jessica,Oven tray,True,Eating Out,restaurant,0.38793993
+2023-11-01T05:36:03Z,52.9,USD,Joseph,Comforter ,True,Alcohol & Leisure,whiskey,0.32182217
+2023-11-01T04:02:29Z,34.87,USD,Jason,Utility ,True,Utilities,electricity,0.4127808
+2023-10-29T06:11:25Z,1.37,USD,Matthew,Payment,False,Rent,deposit,0.5558409
+2023-10-29T06:10:39Z,15.0,USD,Matthew,Payment,False,Rent,deposit,0.5558409
+2023-10-27T19:07:28Z,3.69,USD,Jessica,Whole milk,False,Groceries,milk,0.7925817
+2023-10-27T19:07:12Z,2.49,USD,Jessica,Rai,True,Alcohol & Leisure,wine,0.32518214
+2023-10-26T06:07:40Z,6.49,USD,Jessica,Argan oil,True,Alcohol & Leisure,vodka,0.35341573
+2023-10-23T03:46:36Z,2.57,USD,Jessica,Taxes target,True,Rent,deposit,0.25039938
+2023-10-23T03:46:05Z,2.63,USD,Jessica,Tresemme ,True,Alcohol & Leisure,tequila,0.32489014
+2023-10-23T03:45:38Z,2.99,USD,Jessica,Loreal foundation ,True,Alcohol & Leisure,club,0.2850486
+2023-10-23T03:45:10Z,6.41,USD,Jessica,Mascara,True,Alcohol & Leisure,alcohol,0.37898862
+2023-10-23T03:44:06Z,1.07,USD,Jessica,Makeup remover ,True,Eating Out,takeout,0.28687593
+2023-10-23T03:43:24Z,1.79,USD,Jessica,Mr beast chocolate ,True,Groceries,milk,0.41454595
+2023-10-21T04:57:32Z,1.3,USD,Jessica,Green chilli ,True,Groceries,whole foods,0.38138366
+2023-10-16T17:26:59Z,10.0,USD,Jason,Husky card,True,Alcohol & Leisure,club,0.28618562
+2023-10-15T07:14:53Z,3.49,USD,Jason,Tortilla,False,Eating Out,burger,0.47301894
+2023-10-11T16:30:33Z,5.99,USD,Matthew,Shrimp,False,Eating Out,pizza,0.48417133
+2023-10-11T16:30:04Z,3.0,USD,Jason,Cake mix,True,Groceries,whole foods,0.39556065
+2023-10-11T16:29:06Z,12.12,USD,Jason,Wine ,False,Alcohol & Leisure,wine,1.0
+2023-10-11T06:02:11Z,20.89,USD,Susan,Wine,False,Alcohol & Leisure,wine,1.0
+2023-10-11T05:58:00Z,14.87,USD,Jessica,Vodka,False,Alcohol & Leisure,vodka,1.0
+2023-10-10T06:17:54Z,16.86,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2023-10-09T19:19:56Z,7.79,USD,Jessica,Mirror,True,Utilities,internet,0.40369493
+2023-10-09T04:19:01Z,24.5,USD,Jessica,Chicken ,False,Eating Out,burger,0.5360208
+2023-10-09T04:18:40Z,8.99,USD,Jessica,Dahi,True,Eating Out,burger,0.30991155
+2023-10-09T04:18:23Z,6.99,USD,Jessica,Whole milk,False,Groceries,milk,0.7925818
+2023-10-08T02:48:43Z,5.99,USD,Jessica,Shrimp,False,Eating Out,pizza,0.48417133
+2023-10-08T02:47:42Z,12.11,USD,Jason,Wine,False,Alcohol & Leisure,wine,0.9999999
+2023-10-08T02:46:10Z,3.0,USD,Jessica,Cake mix,True,Groceries,whole foods,0.39556065
+2023-10-07T06:07:28Z,60.0,USD,Jessica,Garba tickets ,True,Groceries,walmart,0.30927247
+2023-10-07T06:04:59Z,15.0,USD,Jason,Garba,True,Groceries,walmart,0.35641617
+2023-10-07T03:54:35Z,75.0,USD,Jessica,Garba tickets,True,Groceries,walmart,0.30927247
+2023-10-06T01:40:51Z,1442.23,USD,Jessica,Rent oct Anushka and meghana,False,Rent,rent,0.5145792
+2023-10-04T22:51:23Z,5.75,USD,Jessica,Green chilli and moong dal ,True,Groceries,vegetables,0.34690765
+2023-10-04T22:01:02Z,8.75,USD,Jessica,Dollar tree common expense,True,Groceries,costco,0.31460744
+2023-10-04T21:24:07Z,5.0,USD,Jessica,Pastaaas,True,Eating Out,pizza,0.4293344
+2023-10-04T21:23:56Z,3.99,USD,Jason,Bread,False,Eating Out,pizza,0.52251565
+2023-10-04T21:23:39Z,4.99,USD,Matthew,Ketchup,False,Eating Out,burger,0.49905556
+2023-10-04T21:22:51Z,9.99,USD,Matthew,Chick nuggs,True,Groceries,vegetables,0.3455227
+2023-10-04T21:22:31Z,9.99,USD,Jessica,Pizza rolls,False,Eating Out,pizza,0.7033656
+2023-10-04T21:22:16Z,3.02,USD,Jessica,Cabbage,False,Groceries,vegetables,0.69812274
+2023-10-04T21:22:06Z,1.38,USD,Matthew,Lime,False,Alcohol & Leisure,liquor,0.5472213
+2023-10-04T21:21:42Z,2.79,USD,Jessica,Mozz cheese,False,Eating Out,pizza,0.47668302
+2023-10-04T21:21:15Z,5.99,USD,Jason,Watermelon,True,Groceries,vegetables,0.42946073
+2023-10-04T21:20:57Z,1.99,USD,Jason,Green onion,False,Groceries,vegetables,0.5451098
+2023-10-04T21:20:43Z,3.99,USD,Matthew,Milk,False,Groceries,milk,1.0
+2023-10-04T21:19:56Z,2.99,USD,Jason,Spinach,False,Groceries,vegetables,0.5753617
+2023-10-03T22:50:17Z,320.33,USD,Michael,Payment,False,Rent,deposit,0.5558409
+2023-10-03T17:21:10Z,189.33,USD,Michael,Payment,False,Rent,deposit,0.5558409
+2023-10-02T19:18:59Z,10.0,USD,Jessica,Anushka's food worker card,True,Eating Out,food delivery,0.36192852
+2023-10-02T16:50:54Z,4.55,USD,Susan,Settle all balances,True,Eating Out,takeout,0.26679695
+2023-10-02T16:20:13Z,1.99,USD,Jason,Bread,False,Eating Out,pizza,0.52251565
+2023-10-02T05:52:26Z,5.0,USD,Brandon,Payment,False,Rent,deposit,0.5558409
+2023-10-01T20:27:55Z,6.34,USD,Matthew,Starbucks coffee,False,Eating Out,starbucks,0.90596694
+2023-10-01T19:59:42Z,6.8,USD,Jason,Payment,False,Rent,deposit,0.5558409
+2023-10-01T19:57:16Z,217.55,USD,Jessica,Payment,False,Rent,deposit,0.5558409
+2023-10-01T19:55:41Z,138.12,USD,Jason,Payment,False,Rent,deposit,0.5558409
+2023-10-01T19:51:44Z,13.55,USD,Jessica,Chair ,False,Alcohol & Leisure,club,0.46555588
+2023-10-01T19:50:08Z,0.37,USD,Jason,Dish organizer,False,Eating Out,restaurant,0.47752452
+2023-10-01T19:43:57Z,143.95,USD,Jessica,Sept rent anu,False,Rent,rent,0.5786468
+2023-10-01T19:43:29Z,143.95,USD,Jason,Sept rent meghu,False,Rent,rent,0.543009
+2023-10-01T19:37:31Z,70.0,USD,Michael,Roomates change meghans,True,Rent,room rent,0.414039
+2023-10-01T19:23:05Z,4.4,USD,Jason,Mousse,True,Eating Out,zomato,0.39528912
+2023-10-01T06:47:27Z,2.99,USD,Jessica,Mushroom ,False,Eating Out,pizza,0.55363977
+2023-10-01T06:47:01Z,1.99,USD,Jason,Bread,False,Eating Out,pizza,0.52251565
+2023-10-01T06:45:43Z,1.99,USD,Jason,Bread,False,Eating Out,pizza,0.52251565
+2023-10-01T06:44:39Z,9.92,USD,Jessica,Nivea,True,Eating Out,zomato,0.3382919
+2023-10-01T06:44:14Z,3.49,USD,Jessica,Tortilla,False,Eating Out,burger,0.47301888
+2023-10-01T06:43:21Z,5.79,USD,Jessica,Mayo,True,Eating Out,burger,0.43188775
+2023-10-01T06:42:58Z,2.59,USD,Jessica,Soy sauce,True,Groceries,milk,0.44462344
+2023-10-01T06:41:42Z,2.59,USD,Jason,Soy sauce,True,Groceries,milk,0.44462347
+2023-10-01T06:40:57Z,7.79,USD,Jessica,Veg oil,True,Alcohol & Leisure,vodka,0.4022814
+2023-10-01T06:40:15Z,6.43,USD,Jessica,Starbucks coffee ,False,Eating Out,starbucks,0.9059668
+2023-10-01T06:39:21Z,5.36,USD,Jessica,Fruits,False,Groceries,vegetables,0.6966715
+2023-10-01T06:38:34Z,3.56,USD,Jill,Sprite ,True,Alcohol & Leisure,wine,0.3499955
+2023-10-01T06:37:30Z,17.63,USD,Jason,Alc fee,False,Groceries,aldi,0.45751432
+2023-09-30T01:47:53Z,310.0,USD,Jessica,Last month rent,False,Rent,monthly rent,0.80282724
+2023-09-30T01:47:34Z,75.0,USD,Jessica,Extra person fee for last month,True,Rent,monthly rent,0.43475652
+2023-09-30T01:46:58Z,310.0,USD,Jason,Security deposit,False,Rent,deposit,0.82633305
+2023-09-28T04:24:48Z,2.19,USD,Jason,Pasta ,False,Eating Out,pizza,0.5975237
+2023-09-28T04:24:16Z,5.99,USD,Jason,Veggie pizza,False,Eating Out,pizza,0.73170376
+2023-09-28T04:23:51Z,5.99,USD,Jason,Five cheese pizza,False,Eating Out,pizza,0.65640265
+2023-09-27T21:32:15Z,10.0,USD,Jessica,U haul,True,Rent,lease,0.3937961
+2023-09-25T22:42:58Z,8.75,USD,Matthew,Dollar tree,True,Groceries,walmart,0.3652355
+2023-09-25T21:52:27Z,14.51,USD,Jessica,Common stuffs from Costco +table,False,Groceries,costco,0.6235118
+2023-09-25T01:15:48Z,3.19,USD,Jason,7 up,True,Rent,flat,0.3405102
+2023-09-25T01:08:54Z,11.03,USD,Jessica,Cold coffee starbucks ,False,Eating Out,starbucks,0.7507837
+2023-09-25T00:45:19Z,11.25,USD,Jessica,Dollar tree,True,Groceries,walmart,0.3652355
+2023-09-25T00:44:34Z,2.5,USD,Jessica,Cleaner and shower hooks,True,Rent,rent,0.24464852
+2023-09-25T00:13:16Z,2.83,USD,Jill,Alc fee,False,Groceries,aldi,0.45751414
+2023-09-25T00:10:39Z,18.16,USD,Jason,Winee,False,Alcohol & Leisure,wine,0.7681363
+2023-09-25T00:09:34Z,15.66,USD,Jason,Vodka,False,Alcohol & Leisure,vodka,1.0
+2023-09-24T19:18:45Z,216.0,USD,Jessica,Mattress,True,Rent,flat,0.44651157
+2023-09-22T22:32:30Z,176.0,USD,Matthew,Matterss ,True,Utilities,gas,0.3079043
+2023-09-22T03:48:38Z,5.52,USD,Matthew,Cabinets,True,Eating Out,cafe,0.40978962
+2023-09-22T03:48:21Z,5.51,USD,Matthew,Table,True,Eating Out,dinner,0.41997296
+2023-09-22T03:47:27Z,5.99,USD,Jessica,Tur dal,True,Eating Out,burger,0.2881958
+2023-09-22T03:47:20Z,3.99,USD,Jessica,Cumin seeds,True,Groceries,vegetables,0.39365226
+2023-09-22T03:47:01Z,26.0,USD,Jessica,Rice,False,Groceries,whole foods,0.5487485
+2023-09-22T03:46:41Z,3.08,USD,Jessica,Taxes,True,Rent,deposit,0.35354322
+2023-09-22T03:46:09Z,27.99,USD,Jessica,Water purifier,False,Utilities,water bill,0.4546033
+2023-09-22T03:45:11Z,1.19,USD,Jessica,Toilet tissues,True,Utilities,gas,0.29937246
+2023-09-22T03:44:20Z,1.41,USD,Jessica,Dollar tree taxes,True,Utilities,power bill,0.21914956
+2023-09-22T03:43:53Z,1.31,USD,Jessica,Handwash,True,Alcohol & Leisure,wine,0.37333602
+2023-09-22T03:43:12Z,1.3,USD,Matthew,Tide liquid,True,Alcohol & Leisure,liquor,0.4064275
+2023-09-22T03:42:46Z,1.28,USD,Jessica,Dish washing liquid ,True,Alcohol & Leisure,vodka,0.27806866
+2023-09-22T03:42:01Z,1.27,USD,Jessica,Garbage bags,False,Groceries,groceries,0.524218
+2023-09-22T03:40:07Z,22.09,USD,Jessica,Trader Joe's groceries 19/09,False,Groceries,trader joe's,0.7559346
+2023-09-22T03:33:26Z,9.83,USD,Jessica,Taxes,True,Rent,deposit,0.35354322
+2023-09-22T03:31:50Z,11.79,USD,Jessica,Paneer,False,Eating Out,burger,0.46725464
+2023-09-22T03:31:36Z,8.15,USD,Jessica,Chicken ,False,Eating Out,burger,0.5360208
+2023-09-22T03:31:08Z,6.99,USD,Jessica,Tomatoes,False,Groceries,vegetables,0.6991221
+2023-09-22T03:28:58Z,8.69,USD,Jessica,Sugar,False,Groceries,milk,0.55310947
+2023-09-22T03:28:41Z,6.99,USD,Jessica,Garlic,False,Eating Out,pizza,0.5581976
+2023-09-22T03:28:24Z,9.99,USD,Jessica,Dryer sheets,True,Rent,flat,0.2892323
+2023-09-22T03:26:50Z,4.99,USD,Jessica,Eggs,False,Groceries,milk,0.5273424
+2023-09-22T03:26:25Z,12.49,USD,Matthew,Oil,False,Utilities,gas,0.5958656
+2023-09-22T03:25:24Z,11.99,USD,Jessica,Dishwasher pods,True,Eating Out,starbucks,0.25967363
+2023-09-22T03:23:27Z,8.99,USD,Jessica,Dahi,True,Eating Out,burger,0.30991155
+2023-09-22T03:23:06Z,14.99,USD,Jessica,Laundry detergent ,True,Groceries,milk,0.36153135
+2023-09-22T03:22:43Z,21.99,USD,Jessica,Toilet roll,True,Eating Out,pizza,0.39886716
+2023-09-22T03:21:16Z,13.99,USD,Jessica,Milk,False,Groceries,milk,1.0000004
+2023-09-22T03:19:45Z,16.99,USD,Jessica,Trash bags,False,Groceries,groceries,0.5319622
+2023-09-22T03:19:21Z,19.49,USD,Jessica,Kitchen tissues,True,Groceries,vegetables,0.38679892
+2023-09-20T22:32:57Z,60.99,USD,Matthew,Cab from airport ,True,Eating Out,cafe,0.39466447
+2023-08-03T05:12:32Z,463.0,USD,Michael,deposit,False,Rent,deposit,1.0000005
+2023-08-03T05:11:41Z,70.0,USD,Michael,application fees,True,Rent,deposit,0.32834727
+2023-03-07T11:41:32Z,80.0,INR,Jessica,Payment,False,Rent,deposit,0.55584097
+2023-02-12T12:21:18Z,425.63,INR,Joshua,Payment,False,Rent,deposit,0.55584097
+2023-02-12T12:21:14Z,414.38,INR,Amy,Payment,False,Rent,deposit,0.55584097
+2023-02-08T09:19:18Z,503.88,INR,Jessica,Payment,False,Rent,deposit,0.55584097
+2023-02-08T08:41:16Z,1880.78,INR,Maria,Payment,False,Rent,deposit,0.55584097
+2023-02-08T08:41:10Z,1109.02,INR,Maria,Payment,False,Rent,deposit,0.55584097
+2023-02-08T08:39:50Z,153.9,INR,Amy,Payment,False,Rent,deposit,0.55584097
+2023-02-08T07:45:13Z,176.0,INR,Angel,Payment,False,Rent,deposit,0.55584097
+2023-02-08T07:05:41Z,433.0,INR,Jessica,Payment,False,Rent,deposit,0.55584097
+2023-02-08T07:04:17Z,206.0,INR,Cassandra,Payment,False,Rent,deposit,0.55584097
+2023-02-08T07:04:10Z,133.9,INR,Maria,Payment,False,Rent,deposit,0.55584097
+2023-02-08T07:03:02Z,181.0,INR,Angel,Payment,False,Rent,deposit,0.55584097
+2023-02-08T06:46:32Z,25.0,INR,Amy,Payment,False,Rent,deposit,0.55584097
+2023-02-07T18:15:22Z,231.0,INR,Cassandra,Payment,False,Rent,deposit,0.55584097
+2023-02-07T17:18:38Z,335.0,INR,Maria,Dinner,False,Eating Out,dinner,1.0000002
+2023-02-07T14:20:25Z,200.0,INR,Cassandra,Sinquerim beach parking ,True,Rent,rent,0.2845453
+2023-02-07T14:17:17Z,250.0,INR,Cassandra,Parking sinquerim ,True,Rent,rent,0.2954517
+2023-02-07T13:42:26Z,231.0,INR,Cassandra,Payment,False,Rent,deposit,0.55584097
+2023-02-07T13:41:38Z,25.0,INR,James,Payment,False,Rent,deposit,0.5558409
+2023-02-07T13:41:19Z,225.0,INR,James,Entry tickets aguada fort ,True,Rent,deposit,0.23986661
+2023-02-07T13:40:01Z,225.0,INR,James,Entry Tickets aguada fort ,True,Rent,deposit,0.23986661
+2023-02-07T11:35:35Z,100.0,INR,Jessica,Parking aguada,True,Alcohol & Leisure,bar,0.28769422
+2023-02-07T10:35:25Z,201.0,INR,Angel,Breakfast+lunch,False,Eating Out,lunch,0.8444855
+2023-02-07T10:34:19Z,181.0,INR,Angel,Breakfast+lunch,False,Eating Out,lunch,0.8444855
+2023-02-07T09:46:10Z,190.0,INR,Jessica,Sugarcane juice ,True,Alcohol & Leisure,vodka,0.41478387
+2023-02-06T18:36:08Z,299.0,INR,Angel,Ice cream on 6th,True,Eating Out,lunch,0.35421368
+2023-02-06T17:49:17Z,1386.0,INR,Angel,6 Feb dinner,False,Eating Out,dinner,0.63588834
+2023-02-06T16:05:38Z,67.0,INR,Cassandra,Payment,False,Rent,deposit,0.5558409
+2023-02-06T15:58:36Z,531.33,INR,Amy,Payment,False,Rent,deposit,0.5558409
+2023-02-06T15:55:38Z,45.72,INR,Joshua,Payment,False,Rent,deposit,0.5558409
+2023-02-06T15:53:54Z,165.33,INR,Amy,Payment,False,Rent,deposit,0.5558409
+2023-02-06T15:53:48Z,262.0,INR,Joshua,Payment,False,Rent,deposit,0.5558409
+2023-02-06T15:53:21Z,13.0,INR,Angel,Payment,False,Rent,deposit,0.5558409
+2023-02-06T15:52:08Z,80.0,INR,Cassandra,Payment,False,Rent,deposit,0.5558409
+2023-02-06T15:52:00Z,275.0,INR,Joshua,Payment,False,Rent,deposit,0.5558409
+2023-02-06T15:50:07Z,25.0,INR,James,Payment,False,Rent,deposit,0.5558409
+2023-02-06T15:49:51Z,464.34,INR,Amy,Payment,False,Rent,deposit,0.5558409
+2023-02-06T15:47:03Z,823.78,INR,Maria,Payment,False,Rent,deposit,0.55584097
+2023-02-06T15:45:36Z,823.78,INR,Maria,Payment,False,Rent,deposit,0.55584097
+2023-02-06T15:44:40Z,391.0,INR,Jessica,Payment,False,Rent,deposit,0.55584097
+2023-02-06T15:42:16Z,744.29,INR,Maria,Payment,False,Rent,deposit,0.55584097
+2023-02-06T15:35:09Z,55.0,INR,Cassandra,Payment,False,Rent,deposit,0.55584097
+2023-02-06T15:32:07Z,329.0,INR,Jessica,Payment,False,Rent,deposit,0.55584097
+2023-02-06T15:31:49Z,216.71,INR,Amy,Payment,False,Rent,deposit,0.55584097
+2023-02-06T15:30:59Z,687.39,INR,Maria,Payment,False,Rent,deposit,0.5558409
+2023-02-06T15:30:15Z,150.0,INR,Amy,Parking parra road,True,Rent,lease,0.2929252
+2023-02-06T15:25:43Z,169.28,INR,Joshua,Payment,False,Rent,deposit,0.5558409
+2023-02-06T14:01:05Z,1290.0,INR,Jessica,Lunch kanna veg restaurant ,False,Eating Out,restaurant,0.59723693
+2023-02-06T11:11:03Z,470.48,INR,Maria,Payment,False,Rent,deposit,0.5558409
+2023-02-06T10:11:23Z,550.0,INR,James,Purse,False,Groceries,grocery,0.47627833
+2023-02-06T10:09:00Z,110.0,INR,Amy,Water ,False,Alcohol & Leisure,drinks,0.6113386
+2023-02-06T07:43:07Z,150.0,INR,Maria,Parking bagha beach,True,Rent,rent,0.3593285
+2023-02-06T05:13:51Z,460.0,INR,Amy,6th breakfast ,False,Eating Out,lunch,0.59950083
+2023-02-06T04:21:09Z,13.0,INR,Angel,Payment,False,Rent,deposit,0.5558409
+2023-02-06T04:20:17Z,35.0,INR,Joshua,Payment,False,Rent,deposit,0.5558409
+2023-02-06T04:03:21Z,130.0,INR,Joshua,Water,False,Alcohol & Leisure,drinks,0.6113387
+2023-02-05T19:26:15Z,200.0,INR,Maria,Biriyani ,True,Eating Out,cafe,0.31320748
+2023-02-05T19:25:38Z,500.0,INR,Amy,Chicken starters,False,Groceries,whole foods,0.47277093
+2023-02-05T16:08:43Z,450.0,INR,Maria,Tyre puncture ,True,Rent,flat,0.28002876
+2023-02-05T15:33:03Z,700.0,INR,Jessica,Bag,False,Alcohol & Leisure,beer,0.45554602
+2023-02-05T15:32:24Z,700.0,INR,Jessica,Bag,False,Alcohol & Leisure,beer,0.45554584
+2023-02-05T14:05:28Z,200.0,INR,Helen,Hair braids,True,Utilities,internet,0.25432822
+2023-02-05T10:45:06Z,2277.0,INR,Amy,Lunch day 1,False,Eating Out,lunch,0.7964313
+2023-02-05T07:02:57Z,320.0,INR,Maria,Soda ,False,Alcohol & Leisure,drinks,0.6733514
+2023-02-05T07:02:24Z,100.0,INR,James,Parking ,False,Rent,rent,0.46236765
+2023-02-05T05:35:34Z,4500.0,INR,Amy,Scooty rental,False,Rent,rent,0.52127755
+2023-02-05T05:35:18Z,4500.0,INR,Amy,Fascino Rent,False,Rent,rent,0.6212021
+2023-02-05T03:15:16Z,1227.79,INR,Maria,Payment,False,Rent,deposit,0.5558409
+2023-02-05T03:14:52Z,1227.78,INR,Maria,Payment,False,Rent,deposit,0.5558409
+2023-02-05T03:08:49Z,8250.0,INR,Angel,Hotel remaining charges,True,Utilities,mobile recharge,0.35979915
+2023-02-05T02:55:20Z,2800.0,INR,Jessica,Bus madgoan to thivim ,True,Utilities,t-mobile,0.2857607
+2023-02-05T02:54:09Z,2800.0,INR,Anthony,Bus madgoan to thivim,True,Utilities,t-mobile,0.2857607
+2023-01-01T16:12:00Z,50.0,INR,Amanda,Waffle,True,Eating Out,lunch,0.43246412
+2023-01-01T16:11:46Z,105.0,INR,Amanda,Brownie,False,Eating Out,brunch,0.48197556

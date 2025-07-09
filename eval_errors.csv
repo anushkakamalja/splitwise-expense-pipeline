@@ -1,0 +1,67 @@
+description,true_category,predicted_category,similarity_score,confidence_bucket,correct
+Costco pizza ,Groceries,Eating Out,0.44812077283859253,Low,False
+Chambong,Alcohol,Alcohol,0.44493567943573,Low,True
+Qfc vday,Groceries,Alcohol,0.28090566396713257,Low,False
+Cake mix,Groceries,Eating Out,0.3802802264690399,Low,False
+Elec: april 1-may 8,Utilities,Utilities,0.4430299699306488,Low,True
+Laundry detergent ,Shopping,Groceries,0.34319230914115906,Low,False
+Lime - May 31st,Travel,Shopping,0.39338886737823486,Low,False
+Garlic,Groceries,Eating Out,0.37946218252182007,Low,False
+Ferry and return ,Travel,Travel,0.37931686639785767,Low,True
+"Tortilla(0.99),cham tea(3),cake(2.99),lime juice(1.49),cucumbers(2.5)",Groceries,Groceries,0.42595452070236206,Low,True
+Cab cap hill,Travel,Travel,0.4109526574611664,Low,True
+"Safeway- Pizza, Wine",Groceries,Alcohol,0.5680129528045654,Medium,False
+CostCo Paneer for helpless girls,Groceries,Groceries,0.3871987462043762,Low,True
+Colander ,Shopping,Groceries,0.31696125864982605,Low,False
+Milk hmart,Groceries,Eating Out,0.2855054438114166,Low,False
+Agua verde,Eating Out,Shopping,0.2798521816730499,Low,False
+Poulsbo bakery ,Eating Out,Groceries,0.45084235072135925,Medium,False
+Chicken starters,Rent,Groceries,0.4885619282722473,Medium,False
+Dishwash liquid,Shopping,Alcohol,0.22219319641590118,Low,False
+Miniso goti soda,Eating Out,Eating Out,0.4010990858078003,Low,True
+Toilet tissues,Shopping,Other,0.29546406865119934,Low,False
+Toilet roll,Shopping,Other,0.4069857597351074,Low,False
+Meds and oatmilk,Groceries,Groceries,0.2735918164253235,Low,True
+Gas Shell,Travel,Groceries,0.27553674578666687,Low,False
+50$ cash + 7.7 walmart 25th june,Groceries,Shopping,0.4444807767868042,Low,False
+Rava,Groceries,Shopping,0.3158413767814636,Low,False
+Delfinos,Eating Out,Shopping,0.33728212118148804,Low,False
+Chicken and paneer- costco,Groceries,Eating Out,0.5470483899116516,Medium,False
+Water filter,Shopping,Utilities,0.21767033636569977,Low,False
+Gas station snacks,Travel,Groceries,0.5522263646125793,Medium,False
+Amazon- Adapter,Shopping,Shopping,0.39708882570266724,Low,True
+Bag,Shopping,Shopping,0.41713687777519226,Low,True
+Apna bazaar hardika,Groceries,Groceries,0.42343246936798096,Low,True
+Green chilli ,Groceries,Groceries,0.4027855396270752,Low,True
+Neighbours + Cha Cha,Alcohol,Alcohol,0.3566139340400696,Low,True
+Ishika Purse,Gifts,Groceries,0.35771238803863525,Low,False
+Watermelon juice,Groceries,Groceries,0.3776513636112213,Low,True
+Oil,Groceries,Groceries,0.35052210092544556,Low,True
+Chilis,Groceries,Eating Out,0.5105893611907959,Medium,False
+Hotel remaining charges,Trips,Utilities,0.35026949644088745,Low,False
+Chicken,Groceries,Eating Out,0.4722312390804291,Medium,False
+Qdoba,Groceries,Groceries,0.285369336605072,Low,True
+Rice,Groceries,Groceries,0.4389328360557556,Low,True
+Meghana Gift,Gifts,Shopping,0.3524987995624542,Low,False
+Costco,Groceries,Shopping,0.46863770484924316,Medium,False
+Costco paneer,Groceries,Shopping,0.40677186846733093,Low,False
+Mediterranean wrap,Eating Out,Groceries,0.2827812731266022,Low,False
+Taste of India (12/16),Eating Out,Alcohol,0.3180312514305115,Low,False
+Vacuum cleaner ,Shopping,Shopping,0.3119623363018036,Low,True
+Boba cafe happy,Groceries,Eating Out,0.41613996028900146,Low,False
+Car rental (Enterpise),Travel,Rent,0.5913509130477905,Medium,False
+Walmart 20th Nov,Groceries,Shopping,0.48395517468452454,Medium,False
+Halal bois,Eating Out,Alcohol,0.38325583934783936,Low,False
+Cab bellevue to U district,Travel,Travel,0.4023311138153076,Low,True
+Tide,Shopping,Other,0.30250871181488037,Low,False
+Joey’s Valentines Day 💕,Eating Out,Eating Out,0.3321889042854309,Low,True
+Wifi - September ,Utilities,Utilities,0.4458462595939636,Low,True
+Royal Biryani House,Eating Out,Rent,0.2753470540046692,Low,False
+walmart june 5,Groceries,Shopping,0.4542010426521301,Medium,False
+Dollar tree common expense,Shopping,Utilities,0.26141321659088135,Low,False
+Pasta ,Groceries,Eating Out,0.4146970808506012,Low,False
+U haul,Travel,Shopping,0.43545281887054443,Low,False
+Bloedel Reserve,Travel,Travel,0.30755990743637085,Low,True
+4th,Other,Alcohol,0.25194627046585083,Low,False
+Elec: jan 9-march 11,Utilities,Utilities,0.41039541363716125,Low,True
+Avis,Travel,Shopping,0.313098281621933,Low,False
